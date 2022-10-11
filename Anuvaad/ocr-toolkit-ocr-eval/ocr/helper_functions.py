@@ -22,7 +22,7 @@ def cropPDF (path, pdf_name, start_page, end_page, src_lng, tgt_lng, domain, col
     csvfile = open('pdf_info.csv', 'w',encoding='utf-8')
     csvwriter = csv.writer(csvfile, delimiter = ';')
     csvwriter.writerow(["Filepath","Source","Target","StartPage","EndPage","Domain","Type"])
-    
+
     input_pdf = PdfFileReader(path)
     i = int(start_page)
     j = 0

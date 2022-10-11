@@ -1,16 +1,4 @@
 # IO
-# INPUT_DIR='/home/srihari/Desktop/anuvaad-toolkit/t3'
-# OUTPUT_DIR='/home/srihari/Desktop/anuvaad-toolkit/outputs'
-
-# INPUT_DIR='/home/dhiraj/Documents/benchmark/t1'
-# OUTPUT_DIR='/home/dhiraj/Documents/benchmark/t1'
-
-# INPUT_DIR='/home/dhiraj/Documents/Anuwad/AIB/ta_set_1'
-# OUTPUT_DIR='/home/dhiraj/Documents/Anuwad/AIB/ta_set_1'
-
-# INPUT_DIR = '/home/dhiraj/Documents/Anuwad/testing/Word_detector/retraining/pdfs/seg/*/*.pdf'
-# OUTPUT_DIR = '/home/dhiraj/Documents/Anuwad/testing/Word_detector/retraining/pdfs/seg/output/ocr_json'
-
 
 # INPUT_DIR = '/home/glossary/AI4Bharat_GlossaryMaker/Anuvaad/ocr-toolkit-ocr-eval/ocr/updated_glossaries/PDF_kannada'
 # OUTPUT_DIR = '/home/glossary/AI4Bharat_GlossaryMaker/Anuvaad/ocr-toolkit-ocr-eval/ocr/test_outputs/'
@@ -22,7 +10,6 @@ LANGUAGE = 'en+hi'
 craft_word="False"
 craft_line="False"
 line_layout = "False"
-
 
 BATCH_SIZE = 1
 

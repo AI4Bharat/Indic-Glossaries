@@ -5,6 +5,7 @@ from indic_regex import regex
 import config
 import csv
 import logging
+import sys
 
 logging.basicConfig(level=logging.INFO, filename=config.LOGS,
                     format='%(asctime)s-%(levelname)s-%(message)s')
