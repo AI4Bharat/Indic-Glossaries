@@ -1,0 +1,8 @@
+numpy==1.19.2
+opencv_python==4.4.0.42
+pytesseract==0.3.4
+matplotlib==3.3.3
+requests==2.23.0
+pandas==1.0.3
+leven==1.0.4
+protobuf==3.16.0

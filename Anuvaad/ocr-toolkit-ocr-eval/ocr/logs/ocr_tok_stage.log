@@ -1,0 +1,1269 @@
+2021-03-31 16:57:42,893-INFO- Authentication successful 
+
+2021-03-31 16:57:42,904-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 16:57:42,905-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 16:57:42,905-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 16:57:42,906-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 16:57:42,906-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 16:57:42,907-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 16:57:42,907-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 16:57:42,908-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 16:57:42,908-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 16:57:42,909-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 16:57:42,910-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 16:57:42,910-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 16:57:42,911-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 16:57:42,911-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 16:57:42,911-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 16:57:42,911-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 16:57:42,912-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 16:57:42,913-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 16:57:42,913-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 16:57:42,913-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 16:57:42,914-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 16:57:42,914-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 16:57:42,914-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 16:57:42,914-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 16:57:42,917-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/114/en_114_en.pdf
+2021-03-31 16:57:42,927-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/114/ta_114_ta.pdf
+2021-03-31 16:57:42,933-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/141/en_141_en.pdf
+2021-03-31 16:57:42,933-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/196/ta_196_ta.pdf
+2021-03-31 16:57:42,933-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/141/ta_141_ta.pdf
+2021-03-31 16:57:43,931-INFO-ta_114_ta upload response : {'data': 'e5bac784-b865-48e2-9f1a-799dabafe6ed.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 16:57:43,932-INFO-Language detected ta
+2021-03-31 16:57:43,932-INFO-OCR and Toeknization statred  for ta_114_ta
+2021-03-31 16:57:43,956-INFO-en_114_en upload response : {'data': '3419e0cd-e4c1-4859-a5dd-f2f20eae0a23.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 16:57:43,957-INFO-Language detected en
+2021-03-31 16:57:43,957-INFO-OCR and Toeknization statred  for en_114_en
+2021-03-31 16:57:43,962-INFO-ta_196_ta upload response : {'data': 'ddae668a-18f0-4970-a3b7-b48c793443c9.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 16:57:43,962-INFO-Language detected ta
+2021-03-31 16:57:43,963-INFO-OCR and Toeknization statred  for ta_196_ta
+2021-03-31 16:57:44,418-INFO-process started for file  en_114_en with job id A_FWLBOD15GOT-qbFNR-1617190064337
+2021-03-31 16:57:44,750-INFO-process started for file  ta_196_ta with job id A_FWLBOD15GOT-CuHLs-1617190064670
+2021-03-31 16:57:44,750-INFO-process started for file  ta_114_ta with job id A_FWLBOD15GOT-pjjSG-1617190064521
+2021-03-31 16:57:44,776-INFO-ta_141_ta upload response : {'data': '9b94cf57-32bf-4ed9-a7a7-b85c06c09237.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 16:57:44,776-INFO-Language detected ta
+2021-03-31 16:57:44,776-INFO-OCR and Toeknization statred  for ta_141_ta
+2021-03-31 16:57:45,500-INFO-process started for file  ta_141_ta with job id A_FWLBOD15GOT-pIDdT-1617190065366
+2021-03-31 16:57:45,531-INFO-en_141_en upload response : {'data': 'fed1cd69-5893-4ffd-a2f5-3c926667279b.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 16:57:45,532-INFO-Language detected en
+2021-03-31 16:57:45,532-INFO-OCR and Toeknization statred  for en_141_en
+2021-03-31 16:57:46,125-INFO-process started for file  en_141_en with job id A_FWLBOD15GOT-aiQkX-1617190066044
+2021-03-31 17:10:17,256-INFO- Authentication successful 
+
+2021-03-31 17:10:17,261-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 17:10:17,262-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 17:10:17,262-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 17:10:17,263-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 17:10:17,264-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 17:10:17,264-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 17:10:17,265-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 17:10:17,265-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 17:10:17,266-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 17:10:17,267-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 17:10:17,268-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 17:10:17,268-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 17:10:17,269-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 17:10:17,269-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 17:10:17,269-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 17:10:17,269-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 17:10:17,270-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 17:10:17,271-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 17:10:17,271-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 17:10:17,271-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 17:10:17,272-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 17:10:17,272-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 17:10:17,273-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 17:10:17,273-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 17:10:17,275-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/114/en_114_en.pdf
+2021-03-31 17:10:17,278-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/114/ta_114_ta.pdf
+2021-03-31 17:10:18,093-INFO-en_114_en upload response : {'data': '2483e144-4de5-495c-bdf2-a52bb51ebf20.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 17:10:18,093-INFO-Language detected en
+2021-03-31 17:10:18,094-INFO-OCR and Toeknization statred  for en_114_en
+2021-03-31 17:10:18,504-INFO-ta_114_ta upload response : {'data': 'eff7ae78-432c-4686-bbb5-f32f0042564a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 17:10:18,504-INFO-Language detected ta
+2021-03-31 17:10:18,504-INFO-OCR and Toeknization statred  for ta_114_ta
+2021-03-31 17:10:18,818-INFO-process started for file  en_114_en with job id A_FWLBOD15GOT-kjvGk-1617190818602
+2021-03-31 17:10:19,322-INFO-process started for file  ta_114_ta with job id A_FWLBOD15GOT-ZkVZS-1617190818958
+2021-03-31 17:20:41,109-INFO- Authentication successful 
+
+2021-03-31 17:20:41,124-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 17:20:41,125-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 17:20:41,126-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 17:20:41,129-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 17:20:41,129-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 17:20:41,132-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 17:20:41,135-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 17:20:41,135-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 17:20:41,137-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 17:20:41,140-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 17:20:41,141-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 17:20:41,142-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 17:20:41,143-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 17:20:41,143-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 17:20:41,144-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 17:20:41,145-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 17:20:41,145-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 17:20:41,146-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 17:20:41,146-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 17:20:41,147-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 17:20:41,147-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 17:20:41,148-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 17:20:41,148-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 17:20:41,148-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 17:20:41,151-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/86/ta_86_ta.pdf
+2021-03-31 17:20:41,151-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/86/en_86_en.pdf
+2021-03-31 17:20:42,228-INFO-en_86_en upload response : {'data': 'ef981ff9-cb01-4708-80cb-7a702146f102.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 17:20:42,230-INFO-Language detected en
+2021-03-31 17:20:42,230-INFO-OCR and Toeknization statred  for en_86_en
+2021-03-31 17:20:42,230-INFO-ta_86_ta upload response : {'data': 'ae47785f-b9ff-49ac-afc3-a7815c67d80b.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 17:20:42,231-INFO-Language detected ta
+2021-03-31 17:20:42,232-INFO-OCR and Toeknization statred  for ta_86_ta
+2021-03-31 17:20:43,039-INFO-process started for file  en_86_en with job id A_FWLBOD15GOT-ubqws-1617191442723
+2021-03-31 17:20:43,176-INFO-process started for file  ta_86_ta with job id A_FWLBOD15GOT-sggZH-1617191442849
+2021-03-31 17:35:04,082-INFO-file ta_114_ta successfully processed 
+2021-03-31 17:35:04,094-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/141/en_141_en.pdf
+2021-03-31 17:35:06,306-INFO-en_141_en upload response : {'data': '7bbe4c41-7d04-49bf-a6ce-8f53f0fd5903.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 17:35:06,307-INFO-Language detected en
+2021-03-31 17:35:06,308-INFO-OCR and Toeknization statred  for en_141_en
+2021-03-31 17:35:07,430-INFO-process started for file  en_141_en with job id A_FWLBOD15GOT-DJDWI-1617192307219
+2021-03-31 17:39:02,207-INFO- Authentication successful 
+
+2021-03-31 17:39:02,221-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 17:39:02,222-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 17:39:02,224-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 17:39:02,226-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 17:39:02,226-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 17:39:02,228-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 17:39:02,229-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 17:39:02,230-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 17:39:02,230-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 17:39:02,232-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 17:39:02,233-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 17:39:02,234-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 17:39:02,235-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 17:39:02,235-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 17:39:02,236-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 17:39:02,236-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 17:39:02,237-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 17:39:02,238-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 17:39:02,238-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 17:39:02,239-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 17:39:02,240-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 17:39:02,240-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 17:39:02,241-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 17:39:02,241-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 17:39:02,244-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/86/ta_86_ta.pdf
+2021-03-31 17:39:03,479-INFO-ta_86_ta upload response : {'data': '5655775d-e001-45c8-9818-e9936f7acc7a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 17:39:03,480-INFO-Language detected ta
+2021-03-31 17:39:03,480-INFO-OCR and Toeknization statred  for ta_86_ta
+2021-03-31 17:39:04,466-INFO-process started for file  ta_86_ta with job id A_FWLBOD15GOT-nkLoI-1617192544013
+2021-03-31 17:58:18,534-INFO- Authentication successful 
+
+2021-03-31 17:58:18,545-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 17:58:18,546-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 17:58:18,547-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 17:58:18,549-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 17:58:18,550-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 17:58:18,551-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 17:58:18,553-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 17:58:18,554-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 17:58:18,555-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 17:58:18,558-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 17:58:18,560-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 17:58:18,561-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 17:58:18,562-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 17:58:18,563-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 17:58:18,564-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 17:58:18,565-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 17:58:18,565-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 17:58:18,567-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 17:58:18,568-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 17:58:18,568-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 17:58:18,570-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 17:58:18,570-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 17:58:18,571-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 17:58:18,571-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 17:58:18,573-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/86/ta_86_ta.pdf
+2021-03-31 17:58:20,343-INFO-ta_86_ta upload response : {'data': 'de834338-6b81-4528-8498-74b094eb3774.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 17:58:20,344-INFO-Language detected ta
+2021-03-31 17:58:20,344-INFO-OCR and Toeknization statred  for ta_86_ta
+2021-03-31 17:58:21,400-INFO-process started for file  ta_86_ta with job id A_FWLBOD15GOT-SReHo-1617193701071
+2021-03-31 18:00:19,492-INFO- Authentication successful 
+
+2021-03-31 18:00:19,495-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 18:00:19,496-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 18:00:19,496-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 18:00:19,497-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 18:00:19,497-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 18:00:19,497-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 18:00:19,497-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 18:00:19,498-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 18:00:19,498-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 18:00:19,499-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 18:00:19,499-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 18:00:19,499-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 18:00:19,500-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 18:00:19,500-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 18:00:19,500-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 18:00:19,500-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 18:00:19,500-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 18:00:19,501-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 18:00:19,501-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 18:00:19,501-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 18:00:19,501-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 18:00:19,502-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 18:00:19,502-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 18:00:19,502-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 18:00:19,503-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/86/ta_86_ta.pdf
+2021-03-31 18:00:21,339-INFO-ta_86_ta upload response : {'data': 'ee431d37-9f89-411c-933d-6d187fab669c.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:00:21,340-INFO-Language detected ta
+2021-03-31 18:00:21,341-INFO-OCR and Toeknization statred  for ta_86_ta
+2021-03-31 18:00:22,096-INFO-process started for file  ta_86_ta with job id A_FWLBOD15GOT-CWGSx-1617193821961
+2021-03-31 18:02:03,981-INFO- Authentication successful 
+
+2021-03-31 18:02:03,986-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 18:02:03,987-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 18:02:03,987-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 18:02:03,988-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 18:02:03,988-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 18:02:03,988-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 18:02:03,989-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 18:02:03,989-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 18:02:03,989-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 18:02:03,990-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 18:02:03,990-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 18:02:03,991-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 18:02:03,991-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 18:02:03,991-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 18:02:03,991-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 18:02:03,991-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 18:02:03,992-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 18:02:03,992-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 18:02:03,992-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 18:02:03,993-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 18:02:03,993-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 18:02:03,993-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 18:02:03,993-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 18:02:03,994-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 18:02:03,995-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/114/en_114_en.pdf
+2021-03-31 18:02:04,001-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/141/en_141_en.pdf
+2021-03-31 18:02:07,516-INFO-en_114_en upload response : {'data': 'f82ee426-9cf4-4211-b73e-68622f3bf1ca.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:02:07,517-INFO-Language detected en
+2021-03-31 18:02:07,518-INFO-OCR and Toeknization statred  for en_114_en
+2021-03-31 18:02:08,167-INFO-process started for file  en_114_en with job id A_FWLBOD15GOT-YVLsa-1617193928084
+2021-03-31 18:02:16,557-INFO-en_141_en upload response : {'data': '9e414c5b-b1f9-4ed6-874f-1d58e6fb37b6.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:02:16,558-INFO-Language detected en
+2021-03-31 18:02:16,558-INFO-OCR and Toeknization statred  for en_141_en
+2021-03-31 18:02:17,420-INFO-process started for file  en_141_en with job id A_FWLBOD15GOT-yPkfZ-1617193937310
+2021-03-31 18:18:36,203-INFO-file en_114_en successfully processed 
+2021-03-31 18:18:36,217-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/141/ta_141_ta.pdf
+2021-03-31 18:18:46,309-INFO-ta_141_ta upload response : {'data': '7503a7d2-d71b-42f3-bc9f-ee59eec97ef1.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:18:46,311-INFO-Language detected ta
+2021-03-31 18:18:46,311-INFO-OCR and Toeknization statred  for ta_141_ta
+2021-03-31 18:18:47,204-INFO-process started for file  ta_141_ta with job id A_FWLBOD15GOT-pvlrs-1617194926944
+2021-03-31 18:25:13,036-INFO-file ta_86_ta successfully processed 
+2021-03-31 18:25:13,050-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/86/en_86_en.pdf
+2021-03-31 18:25:14,297-INFO-en_86_en upload response : {'data': '81fbb4f6-9027-4383-9a74-9470f85cf46a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:25:14,298-INFO-Language detected en
+2021-03-31 18:25:14,298-INFO-OCR and Toeknization statred  for en_86_en
+2021-03-31 18:25:15,548-INFO-process started for file  en_86_en with job id A_FWLBOD15GOT-ZmMVt-1617195315124
+2021-03-31 18:53:01,117-INFO- Authentication successful 
+
+2021-03-31 18:53:01,126-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 18:53:01,126-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 18:53:01,127-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 18:53:01,127-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 18:53:01,128-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 18:53:01,128-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 18:53:01,128-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 18:53:01,129-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 18:53:01,129-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 18:53:01,130-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 18:53:01,130-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 18:53:01,130-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 18:53:01,131-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 18:53:01,131-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 18:53:01,131-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 18:53:01,131-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 18:53:01,131-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 18:53:01,132-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 18:53:01,132-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 18:53:01,132-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 18:53:01,133-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 18:53:01,133-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 18:53:01,133-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 18:53:01,133-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 18:53:01,135-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/141/en_141_en.pdf
+2021-03-31 18:53:01,143-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/141/ta_141_ta.pdf
+2021-03-31 18:53:01,153-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/196/ta_196_ta.pdf
+2021-03-31 18:53:01,159-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/95/en_95_en.pdf
+2021-03-31 18:53:01,159-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/196/en_196_en.pdf
+2021-03-31 18:53:02,962-INFO-en_196_en upload response : {'data': '00d0fd8d-b383-43dc-ad0e-06339a276f74.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:53:02,962-INFO-ta_196_ta upload response : {'data': '5eb5e427-b3dd-48ac-bfd6-eeab1a725554.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:53:02,963-INFO-Language detected en
+2021-03-31 18:53:02,963-INFO-OCR and Toeknization statred  for en_196_en
+2021-03-31 18:53:02,963-INFO-Language detected ta
+2021-03-31 18:53:02,963-INFO-OCR and Toeknization statred  for ta_196_ta
+2021-03-31 18:53:03,571-INFO-process started for file  ta_196_ta with job id A_FWLBOD15GOT-Djblf-1617196983338
+2021-03-31 18:53:03,586-INFO-en_95_en upload response : {'data': '5bcf9b45-5ee1-466c-a117-922876864b8a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:53:03,587-INFO-Language detected en
+2021-03-31 18:53:03,588-INFO-OCR and Toeknization statred  for en_95_en
+2021-03-31 18:53:03,635-INFO-process started for file  en_196_en with job id A_FWLBOD15GOT-OfWFF-1617196983467
+2021-03-31 18:53:04,605-INFO-en_141_en upload response : {'data': 'b3761ca5-16c7-468b-8b5e-d93943591f81.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:53:04,608-INFO-Language detected en
+2021-03-31 18:53:04,608-INFO-OCR and Toeknization statred  for en_141_en
+2021-03-31 18:53:04,769-INFO-process started for file  en_95_en with job id A_FWLBOD15GOT-AfLGQ-1617196984498
+2021-03-31 18:53:04,772-INFO-ta_141_ta upload response : {'data': 'b2e32df3-a2ce-4de2-a3c6-fd04d9f52f6e.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:53:04,773-INFO-Language detected ta
+2021-03-31 18:53:04,774-INFO-OCR and Toeknization statred  for ta_141_ta
+2021-03-31 18:53:05,939-INFO-process started for file  en_141_en with job id A_FWLBOD15GOT-YXuRh-1617196985669
+2021-03-31 18:53:05,941-INFO-process started for file  ta_141_ta with job id A_FWLBOD15GOT-acmNQ-1617196985711
+2021-03-31 18:56:01,035-INFO- Authentication successful 
+
+2021-03-31 18:56:01,042-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 18:56:01,043-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 18:56:01,044-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 18:56:01,045-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 18:56:01,045-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 18:56:01,045-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 18:56:01,046-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 18:56:01,046-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 18:56:01,047-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 18:56:01,048-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 18:56:01,049-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 18:56:01,049-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 18:56:01,049-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 18:56:01,050-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 18:56:01,050-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 18:56:01,050-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 18:56:01,051-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 18:56:01,052-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 18:56:01,052-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 18:56:01,053-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 18:56:01,053-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 18:56:01,054-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 18:56:01,055-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 18:56:01,055-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 18:56:01,057-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/86/en_86_en.pdf
+2021-03-31 18:56:01,064-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/136/en_136_en.pdf
+2021-03-31 18:56:01,065-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/136/ta_136_ta.pdf
+2021-03-31 18:56:02,779-INFO-ta_136_ta upload response : {'data': '97c73da4-e0fa-4fd5-ba34-3992cc9c53a8.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:56:02,780-INFO-Language detected ta
+2021-03-31 18:56:02,780-INFO-OCR and Toeknization statred  for ta_136_ta
+2021-03-31 18:56:02,780-INFO-en_136_en upload response : {'data': '9e3514f9-e123-4dcf-8145-b8886c4b1d54.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:56:02,780-INFO-en_86_en upload response : {'data': 'cb4c4ce6-732d-4e72-a188-35c47edeb42a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:56:02,781-INFO-Language detected en
+2021-03-31 18:56:02,781-INFO-Language detected en
+2021-03-31 18:56:02,781-INFO-OCR and Toeknization statred  for en_86_en
+2021-03-31 18:56:02,781-INFO-OCR and Toeknization statred  for en_136_en
+2021-03-31 18:56:04,315-INFO-process started for file  en_86_en with job id A_FWLBOD15GOT-DqBOM-1617197164000
+2021-03-31 18:56:04,325-INFO-process started for file  ta_136_ta with job id A_FWLBOD15GOT-FyHxj-1617197164114
+2021-03-31 18:56:04,830-INFO-process started for file  en_136_en with job id A_FWLBOD15GOT-yOSrb-1617197164107
+2021-03-31 18:57:28,784-INFO-file en_141_en successfully processed 
+2021-03-31 18:57:28,844-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/196/ta_196_ta.pdf
+2021-03-31 18:57:29,724-INFO-ta_196_ta upload response : {'data': '6e4ba985-2060-4ce4-bd92-f7789e70d12a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:57:29,725-INFO-Language detected ta
+2021-03-31 18:57:29,725-INFO-OCR and Toeknization statred  for ta_196_ta
+2021-03-31 18:57:30,228-INFO-process started for file  ta_196_ta with job id A_FWLBOD15GOT-NwWEd-1617197250031
+2021-03-31 18:58:08,543-INFO- Authentication successful 
+
+2021-03-31 18:58:08,559-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 18:58:08,560-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 18:58:08,561-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 18:58:08,563-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 18:58:08,564-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 18:58:08,565-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 18:58:08,567-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 18:58:08,567-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 18:58:08,568-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 18:58:08,571-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 18:58:08,572-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 18:58:08,573-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 18:58:08,573-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 18:58:08,574-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 18:58:08,574-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 18:58:08,575-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 18:58:08,575-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 18:58:08,577-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 18:58:08,578-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 18:58:08,578-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 18:58:08,579-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 18:58:08,580-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 18:58:08,581-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 18:58:08,581-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 18:58:08,583-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/141/ta_141_ta.pdf
+2021-03-31 18:58:08,584-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/196/ta_196_ta.pdf
+2021-03-31 18:58:08,590-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/196/en_196_en.pdf
+2021-03-31 18:58:09,963-INFO-en_196_en upload response : {'data': '7af9a8db-1f3f-4adb-a367-db495e2cf6db.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:58:09,964-INFO-Language detected en
+2021-03-31 18:58:09,964-INFO-ta_196_ta upload response : {'data': 'bc99ccbe-d94f-45ae-829b-4d04a77086a7.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:58:09,965-INFO-OCR and Toeknization statred  for en_196_en
+2021-03-31 18:58:09,965-INFO-Language detected ta
+2021-03-31 18:58:09,966-INFO-OCR and Toeknization statred  for ta_196_ta
+2021-03-31 18:58:10,442-INFO-process started for file  ta_196_ta with job id A_FWLBOD15GOT-gXBsT-1617197290276
+2021-03-31 18:58:10,747-INFO-process started for file  en_196_en with job id A_FWLBOD15GOT-wuzPa-1617197290456
+2021-03-31 18:58:11,252-INFO-ta_141_ta upload response : {'data': '876e98aa-bd33-45a0-91cf-296f1b124dee.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 18:58:11,255-INFO-Language detected ta
+2021-03-31 18:58:11,255-INFO-OCR and Toeknization statred  for ta_141_ta
+2021-03-31 18:58:11,805-INFO-process started for file  ta_141_ta with job id A_FWLBOD15GOT-isBdL-1617197291635
+2021-03-31 19:07:49,244-INFO- Authentication successful 
+
+2021-03-31 19:07:49,252-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 19:07:49,252-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 19:07:49,253-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 19:07:49,253-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 19:07:49,253-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 19:07:49,254-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 19:07:49,254-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 19:07:49,254-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 19:07:49,255-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 19:07:49,255-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 19:07:49,256-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 19:07:49,256-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 19:07:49,256-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 19:07:49,257-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 19:07:49,257-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 19:07:49,257-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 19:07:49,257-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 19:07:49,258-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 19:07:49,258-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 19:07:49,258-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 19:07:49,258-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 19:07:49,259-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 19:07:49,259-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 19:07:49,259-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 19:07:49,260-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/86/en_86_en.pdf
+2021-03-31 19:07:49,260-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/136/en_136_en.pdf
+2021-03-31 19:07:49,260-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/136/ta_136_ta.pdf
+2021-03-31 19:07:50,470-INFO-en_86_en upload response : {'data': '33015505-e53b-4de0-84c3-3e3b28b9e84a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:07:50,470-INFO-en_136_en upload response : {'data': '3c342fa5-9a52-4f76-a084-f16e554307b7.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:07:50,470-INFO-ta_136_ta upload response : {'data': 'c6031aca-643d-4f32-88b7-3e35b8302b19.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:07:50,471-INFO-Language detected en
+2021-03-31 19:07:50,471-INFO-Language detected ta
+2021-03-31 19:07:50,471-INFO-OCR and Toeknization statred  for ta_136_ta
+2021-03-31 19:07:50,471-INFO-OCR and Toeknization statred  for en_86_en
+2021-03-31 19:07:50,471-INFO-Language detected en
+2021-03-31 19:07:50,472-INFO-OCR and Toeknization statred  for en_136_en
+2021-03-31 19:07:50,928-INFO-process started for file  en_86_en with job id A_FWLBOD15GOT-zSadE-1617197870781
+2021-03-31 19:07:51,258-INFO-process started for file  en_136_en with job id A_FWLBOD15GOT-JBOAp-1617197871109
+2021-03-31 19:07:51,258-INFO-process started for file  ta_136_ta with job id A_FWLBOD15GOT-Ulahk-1617197870944
+2021-03-31 19:08:28,052-INFO- Authentication successful 
+
+2021-03-31 19:08:28,058-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 19:08:28,058-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 19:08:28,059-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 19:08:28,059-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 19:08:28,059-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 19:08:28,060-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 19:08:28,060-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 19:08:28,060-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 19:08:28,061-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 19:08:28,062-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 19:08:28,062-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 19:08:28,062-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 19:08:28,063-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 19:08:28,063-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 19:08:28,063-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 19:08:28,063-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 19:08:28,063-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 19:08:28,064-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 19:08:28,064-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 19:08:28,064-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 19:08:28,064-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 19:08:28,065-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 19:08:28,065-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 19:08:28,065-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 19:08:28,067-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/141/ta_141_ta.pdf
+2021-03-31 19:08:28,080-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/196/ta_196_ta.pdf
+2021-03-31 19:08:28,085-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/196/en_196_en.pdf
+2021-03-31 19:08:29,591-INFO-ta_196_ta upload response : {'data': '7e9909ee-d58e-4030-b3a2-6d576192f855.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:08:29,591-INFO-en_196_en upload response : {'data': '5f007dc3-0194-4d0a-9927-8d9b3acc417f.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:08:29,591-INFO-Language detected ta
+2021-03-31 19:08:29,592-INFO-OCR and Toeknization statred  for ta_196_ta
+2021-03-31 19:08:29,592-INFO-Language detected en
+2021-03-31 19:08:29,592-INFO-OCR and Toeknization statred  for en_196_en
+2021-03-31 19:08:30,053-INFO-process started for file  en_196_en with job id A_FWLBOD15GOT-TjanK-1617197909893
+2021-03-31 19:08:30,195-INFO-process started for file  ta_196_ta with job id A_FWLBOD15GOT-ntSkT-1617197910059
+2021-03-31 19:08:31,335-INFO-ta_141_ta upload response : {'data': 'e26a6ecb-16d7-48b7-ba00-6a5024802176.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:08:31,337-INFO-Language detected ta
+2021-03-31 19:08:31,338-INFO-OCR and Toeknization statred  for ta_141_ta
+2021-03-31 19:08:31,800-INFO-process started for file  ta_141_ta with job id A_FWLBOD15GOT-VptrI-1617197911664
+2021-03-31 19:34:06,709-INFO-file en_136_en successfully processed 
+2021-03-31 19:34:06,724-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/153/en_153_en.pdf
+2021-03-31 19:34:08,241-INFO-en_153_en upload response : {'data': '61317a49-02d9-4cba-a6e0-20fa230a3f85.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:34:08,241-INFO-Language detected en
+2021-03-31 19:34:08,242-INFO-OCR and Toeknization statred  for en_153_en
+2021-03-31 19:34:09,077-INFO-process started for file  en_153_en with job id A_FWLBOD15GOT-FMGDH-1617199448839
+2021-03-31 19:38:22,366-INFO-file ta_136_ta successfully processed 
+2021-03-31 19:38:22,377-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/153/ta_153_ta.pdf
+2021-03-31 19:38:24,107-INFO-ta_153_ta upload response : {'data': '3584dde4-fd62-4a64-b188-7d0625b694b6.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:38:24,108-INFO-Language detected ta
+2021-03-31 19:38:24,108-INFO-OCR and Toeknization statred  for ta_153_ta
+2021-03-31 19:38:24,909-INFO-process started for file  ta_153_ta with job id A_FWLBOD15GOT-DKwDk-1617199704679
+2021-03-31 19:39:47,010-INFO-file ta_196_ta successfully processed 
+2021-03-31 19:39:47,025-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/95/en_95_en.pdf
+2021-03-31 19:39:48,418-INFO-en_95_en upload response : {'data': '1a0629e7-f0e6-4035-a475-9c0368609538.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:39:48,421-INFO-Language detected en
+2021-03-31 19:39:48,422-INFO-OCR and Toeknization statred  for en_95_en
+2021-03-31 19:39:49,151-INFO-process started for file  en_95_en with job id A_FWLBOD15GOT-mSWcP-1617199788971
+2021-03-31 19:56:40,378-INFO-file en_196_en successfully processed 
+2021-03-31 19:56:40,392-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/95/ta_95_ta.pdf
+2021-03-31 19:56:42,024-INFO-ta_95_ta upload response : {'data': '83767c3c-75b8-4cd8-8255-5e7d6112d512.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 19:56:42,025-INFO-Language detected ta
+2021-03-31 19:56:42,026-INFO-OCR and Toeknization statred  for ta_95_ta
+2021-03-31 19:56:43,381-INFO-process started for file  ta_95_ta with job id A_FWLBOD15GOT-rtyAt-1617200803141
+2021-03-31 20:04:38,267-INFO-file en_86_en successfully processed 
+2021-03-31 20:04:38,283-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/116/ta_116_ta.pdf
+2021-03-31 20:04:40,028-INFO-ta_116_ta upload response : {'data': '8de8e1b8-61d1-4e9d-a2d3-78630dea6607.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 20:04:40,028-INFO-Language detected ta
+2021-03-31 20:04:40,029-INFO-OCR and Toeknization statred  for ta_116_ta
+2021-03-31 20:04:41,034-INFO-process started for file  ta_116_ta with job id A_FWLBOD15GOT-OHJvP-1617201280659
+2021-03-31 20:09:17,187-INFO-file en_95_en successfully processed 
+2021-03-31 20:09:17,204-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/158/en_158_en.pdf
+2021-03-31 20:09:19,257-INFO-en_158_en upload response : {'data': '218424ba-ee7f-4901-8dae-4d0371504316.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 20:09:19,258-INFO-Language detected en
+2021-03-31 20:09:19,258-INFO-OCR and Toeknization statred  for en_158_en
+2021-03-31 20:09:20,802-INFO-process started for file  en_158_en with job id A_FWLBOD15GOT-XkVZt-1617201560597
+2021-03-31 20:13:28,691-INFO-file ta_141_ta successfully processed 
+2021-03-31 20:13:28,724-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/158/ta_158_ta.pdf
+2021-03-31 20:13:30,438-INFO-ta_158_ta upload response : {'data': '460d4ecb-1b36-4177-ad36-30987bb8dd03.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 20:13:30,439-INFO-Language detected ta
+2021-03-31 20:13:30,439-INFO-OCR and Toeknization statred  for ta_158_ta
+2021-03-31 20:13:31,281-INFO-process started for file  ta_158_ta with job id A_FWLBOD15GOT-MvzRB-1617201810942
+2021-03-31 20:24:06,533-INFO-file ta_95_ta successfully processed 
+2021-03-31 20:24:06,555-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/10/ta_10_ta.pdf
+2021-03-31 20:24:07,634-INFO-ta_10_ta upload response : {'data': 'c1cf1b06-c7e7-4765-a69e-49b2a8fc5991.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 20:24:07,634-INFO-Language detected ta
+2021-03-31 20:24:07,634-INFO-OCR and Toeknization statred  for ta_10_ta
+2021-03-31 20:24:08,570-INFO-process started for file  ta_10_ta with job id A_FWLBOD15GOT-jXzGO-1617202448300
+2021-03-31 20:30:06,174-INFO-file en_158_en successfully processed 
+2021-03-31 20:30:06,197-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/10/en_10_en.pdf
+2021-03-31 20:30:07,174-INFO-en_10_en upload response : {'data': '6aefa6ce-13d3-43b3-acc8-6c1c49d363f4.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 20:30:07,174-INFO-Language detected en
+2021-03-31 20:30:07,174-INFO-OCR and Toeknization statred  for en_10_en
+2021-03-31 20:30:08,010-INFO-process started for file  en_10_en with job id A_FWLBOD15GOT-tCpGY-1617202807630
+2021-03-31 20:33:52,868-INFO-file ta_116_ta successfully processed 
+2021-03-31 20:33:52,880-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/116/en_116_en.pdf
+2021-03-31 20:33:54,066-INFO-en_116_en upload response : {'data': '0df661af-48ec-4d86-b55c-4422d07ec312.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 20:33:54,066-INFO-Language detected en
+2021-03-31 20:33:54,066-INFO-OCR and Toeknization statred  for en_116_en
+2021-03-31 20:33:54,847-INFO-process started for file  en_116_en with job id A_FWLBOD15GOT-BtsTG-1617203034747
+2021-03-31 20:56:25,023-INFO-file en_10_en successfully processed 
+2021-03-31 20:56:25,042-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/138/ta_138_ta.pdf
+2021-03-31 20:56:25,933-INFO-ta_138_ta upload response : {'data': '3f8fbca5-fb9b-4d8d-9430-357fce9bf0ac.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 20:56:25,933-INFO-Language detected ta
+2021-03-31 20:56:25,933-INFO-OCR and Toeknization statred  for ta_138_ta
+2021-03-31 20:56:27,116-INFO-process started for file  ta_138_ta with job id A_FWLBOD15GOT-tObWI-1617204386463
+2021-03-31 21:04:40,751-INFO-file ta_158_ta successfully processed 
+2021-03-31 21:04:40,775-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/138/en_138_en.pdf
+2021-03-31 21:04:41,788-INFO-en_138_en upload response : {'data': 'e3b62aa0-4e1b-4a3d-8a71-f5bd7d71b7cf.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 21:04:41,789-INFO-Language detected en
+2021-03-31 21:04:41,789-INFO-OCR and Toeknization statred  for en_138_en
+2021-03-31 21:04:42,610-INFO-process started for file  en_138_en with job id A_FWLBOD15GOT-MENbL-1617204882540
+2021-03-31 21:16:50,501-INFO-file en_116_en successfully processed 
+2021-03-31 21:16:50,517-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/55/en_55_en.pdf
+2021-03-31 21:16:51,775-INFO-en_55_en upload response : {'data': '93f60949-ebd4-4918-9c43-7efa3988fd2d.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 21:16:51,775-INFO-Language detected en
+2021-03-31 21:16:51,775-INFO-OCR and Toeknization statred  for en_55_en
+2021-03-31 21:16:52,368-INFO-process started for file  en_55_en with job id A_FWLBOD15GOT-zfUIQ-1617205612158
+2021-03-31 21:24:16,889-INFO-file ta_10_ta successfully processed 
+2021-03-31 21:24:16,902-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/58/en_58_en.pdf
+2021-03-31 21:24:18,037-INFO-en_58_en upload response : {'data': '87c2a436-7b66-4f8b-b16a-c6ad472d2ceb.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 21:24:18,037-INFO-Language detected en
+2021-03-31 21:24:18,037-INFO-OCR and Toeknization statred  for en_58_en
+2021-03-31 21:24:18,890-INFO-process started for file  en_58_en with job id A_FWLBOD15GOT-dNkcC-1617206058694
+2021-03-31 21:28:00,497-INFO-file ta_138_ta successfully processed 
+2021-03-31 21:28:00,507-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/58/ta_58_ta.pdf
+2021-03-31 21:28:01,750-INFO-ta_58_ta upload response : {'data': '02dce261-ac10-4cf4-bb6b-f98fe2889e27.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 21:28:01,751-INFO-Language detected ta
+2021-03-31 21:28:01,751-INFO-OCR and Toeknization statred  for ta_58_ta
+2021-03-31 21:28:02,741-INFO-process started for file  ta_58_ta with job id A_FWLBOD15GOT-pgYeb-1617206282458
+2021-03-31 21:31:19,871-INFO-file en_138_en successfully processed 
+2021-03-31 21:31:19,885-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/91/ta_91_ta.pdf
+2021-03-31 21:31:21,039-INFO-ta_91_ta upload response : {'data': '9b8cf9a6-850f-403c-b17e-941b53ab14f7.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 21:31:21,040-INFO-Language detected ta
+2021-03-31 21:31:21,040-INFO-OCR and Toeknization statred  for ta_91_ta
+2021-03-31 21:31:21,941-INFO-process started for file  ta_91_ta with job id A_FWLBOD15GOT-sLAmP-1617206481604
+2021-03-31 22:23:28,246-INFO-file en_58_en successfully processed 
+2021-03-31 22:23:28,279-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/91/en_91_en.pdf
+2021-03-31 22:23:29,065-INFO-en_91_en upload response : {'data': 'dfe691f4-e17d-42ac-bd64-00b2fd340425.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 22:23:29,065-INFO-Language detected en
+2021-03-31 22:23:29,065-INFO-OCR and Toeknization statred  for en_91_en
+2021-03-31 22:23:29,793-INFO-process started for file  en_91_en with job id A_FWLBOD15GOT-HWqxC-1617209609630
+2021-03-31 22:33:38,837-INFO-file ta_91_ta successfully processed 
+2021-03-31 22:33:38,873-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/78/ta_78_ta.pdf
+2021-03-31 22:33:39,889-INFO-ta_78_ta upload response : {'data': '1e6e8d9a-1188-467a-b12b-080bfd85b0ba.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 22:33:39,889-INFO-Language detected ta
+2021-03-31 22:33:39,890-INFO-OCR and Toeknization statred  for ta_78_ta
+2021-03-31 22:33:40,837-INFO-process started for file  ta_78_ta with job id A_FWLBOD15GOT-SDhvu-1617210220494
+2021-03-31 22:36:19,761-INFO-file ta_58_ta successfully processed 
+2021-03-31 22:36:19,801-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/78/en_78_en.pdf
+2021-03-31 22:36:20,764-INFO-en_78_en upload response : {'data': 'a425756d-962d-4579-b8cc-1d5305274478.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 22:36:20,764-INFO-Language detected en
+2021-03-31 22:36:20,764-INFO-OCR and Toeknization statred  for en_78_en
+2021-03-31 22:36:22,258-INFO-process started for file  en_78_en with job id A_FWLBOD15GOT-OxVDa-1617210382113
+2021-03-31 22:45:05,831-INFO-file en_91_en successfully processed 
+2021-03-31 22:45:05,862-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/148/en_148_en.pdf
+2021-03-31 22:45:06,837-INFO-en_148_en upload response : {'data': '6f732a47-aee9-4653-baf2-255458406fed.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 22:45:06,837-INFO-Language detected en
+2021-03-31 22:45:06,837-INFO-OCR and Toeknization statred  for en_148_en
+2021-03-31 22:45:07,621-INFO-process started for file  en_148_en with job id A_FWLBOD15GOT-QGCzU-1617210907367
+2021-03-31 23:01:08,376-INFO-file ta_78_ta successfully processed 
+2021-03-31 23:01:08,387-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/148/ta_148_ta.pdf
+2021-03-31 23:01:09,183-INFO-ta_148_ta upload response : {'data': '710365b4-8ca7-4ccd-9a24-8ba38cf51100.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 23:01:09,183-INFO-Language detected ta
+2021-03-31 23:01:09,183-INFO-OCR and Toeknization statred  for ta_148_ta
+2021-03-31 23:01:10,163-INFO-process started for file  ta_148_ta with job id A_FWLBOD15GOT-PNoFB-1617211869930
+2021-03-31 23:02:54,835-INFO- Authentication successful 
+
+2021-03-31 23:02:54,861-ERROR-Parallel pdfs missing for file 162 
+2021-03-31 23:02:54,863-ERROR-Parallel pdfs missing for file 163 
+2021-03-31 23:02:54,864-ERROR-Parallel pdfs missing for file 35 
+2021-03-31 23:02:54,866-ERROR-Parallel pdfs missing for file 5 
+2021-03-31 23:02:54,867-ERROR-Parallel pdfs missing for file 11 
+2021-03-31 23:02:54,868-ERROR-Parallel pdfs missing for file 109 
+2021-03-31 23:02:54,869-ERROR-Parallel pdfs missing for file 133 
+2021-03-31 23:02:54,869-ERROR-Parallel pdfs missing for file 182 
+2021-03-31 23:02:54,870-ERROR-Parallel pdfs missing for file 160 
+2021-03-31 23:02:54,872-ERROR-Parallel pdfs missing for file 147 
+2021-03-31 23:02:54,873-ERROR-Parallel pdfs missing for file 1 
+2021-03-31 23:02:54,874-ERROR-Parallel pdfs missing for file 106 
+2021-03-31 23:02:54,875-ERROR-Parallel pdfs missing for file 197 
+2021-03-31 23:02:54,875-ERROR-Parallel pdfs missing for file 139 
+2021-03-31 23:02:54,876-ERROR-Parallel pdfs missing for file 166 
+2021-03-31 23:02:54,876-ERROR-Parallel pdfs missing for file 107 
+2021-03-31 23:02:54,877-ERROR-Parallel pdfs missing for file 199 
+2021-03-31 23:02:54,878-ERROR-Parallel pdfs missing for file 149 
+2021-03-31 23:02:54,878-ERROR-Parallel pdfs missing for file 194 
+2021-03-31 23:02:54,878-ERROR-Parallel pdfs missing for file 184 
+2021-03-31 23:02:54,879-ERROR-Parallel pdfs missing for file 69 
+2021-03-31 23:02:54,879-ERROR-Parallel pdfs missing for file 39 
+2021-03-31 23:02:54,879-ERROR-Parallel pdfs missing for file 73 
+2021-03-31 23:02:54,879-ERROR-Parallel pdfs missing for file 70 
+2021-03-31 23:02:54,881-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/153/en_153_en.pdf
+2021-03-31 23:02:54,886-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/153/ta_153_ta.pdf
+2021-03-31 23:02:54,888-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/55/en_55_en.pdf
+2021-03-31 23:02:55,887-INFO-en_55_en upload response : {'data': 'd915956f-4da4-41a2-9823-cd4f1b0f0ce1.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 23:02:55,888-INFO-Language detected en
+2021-03-31 23:02:55,888-INFO-OCR and Toeknization statred  for en_55_en
+2021-03-31 23:02:56,597-INFO-en_153_en upload response : {'data': 'd51aee72-a39c-4672-a5e2-f4747f741796.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 23:02:56,598-INFO-Language detected en
+2021-03-31 23:02:56,598-INFO-OCR and Toeknization statred  for en_153_en
+2021-03-31 23:02:57,055-INFO-process started for file  en_55_en with job id A_FWLBOD15GOT-dFKNu-1617211976625
+2021-03-31 23:02:57,613-INFO-ta_153_ta upload response : {'data': '296b71d8-fc16-44bb-8781-b71c391e9ffd.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 23:02:57,615-INFO-Language detected ta
+2021-03-31 23:02:57,616-INFO-OCR and Toeknization statred  for ta_153_ta
+2021-03-31 23:02:57,717-INFO-process started for file  en_153_en with job id A_FWLBOD15GOT-KbHEn-1617211977485
+2021-03-31 23:02:58,777-INFO-process started for file  ta_153_ta with job id A_FWLBOD15GOT-ncObe-1617211978330
+2021-03-31 23:05:47,487-INFO-file en_148_en successfully processed 
+2021-03-31 23:05:47,499-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/121/en_121_en.pdf
+2021-03-31 23:05:48,989-INFO-en_121_en upload response : {'data': 'ae79f2db-fc31-4227-bfa3-c4ad41d5bdc8.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 23:05:48,990-INFO-Language detected en
+2021-03-31 23:05:48,990-INFO-OCR and Toeknization statred  for en_121_en
+2021-03-31 23:05:50,176-INFO-process started for file  en_121_en with job id A_FWLBOD15GOT-CNlpE-1617212149747
+2021-03-31 23:21:01,698-INFO-file ta_148_ta successfully processed 
+2021-03-31 23:21:01,708-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/121/ta_121_ta.pdf
+2021-03-31 23:21:02,825-INFO-ta_121_ta upload response : {'data': '331e2999-29ac-4917-a40d-b1e6dd4b3284.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 23:21:02,825-INFO-Language detected ta
+2021-03-31 23:21:02,825-INFO-OCR and Toeknization statred  for ta_121_ta
+2021-03-31 23:21:03,452-INFO-process started for file  ta_121_ta with job id A_FWLBOD15GOT-dUEAu-1617213063203
+2021-03-31 23:59:03,528-INFO-file en_55_en successfully processed 
+2021-03-31 23:59:03,568-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/55/ta_55_ta.pdf
+2021-03-31 23:59:04,379-INFO-ta_55_ta upload response : {'data': 'd74523db-8c50-48f4-b250-87e5960f4934.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-03-31 23:59:04,379-INFO-Language detected ta
+2021-03-31 23:59:04,380-INFO-OCR and Toeknization statred  for ta_55_ta
+2021-03-31 23:59:04,974-INFO-process started for file  ta_55_ta with job id A_FWLBOD15GOT-rhpik-1617215344799
+2021-04-01 00:02:09,991-INFO-file ta_121_ta successfully processed 
+2021-04-01 00:02:10,002-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/142/ta_142_ta.pdf
+2021-04-01 00:02:11,275-INFO-ta_142_ta upload response : {'data': 'ac6513a9-e7f9-4eba-bc3d-6e9ceedcb6c2.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 00:02:11,275-INFO-Language detected ta
+2021-04-01 00:02:11,275-INFO-OCR and Toeknization statred  for ta_142_ta
+2021-04-01 00:02:11,765-INFO-process started for file  ta_142_ta with job id A_FWLBOD15GOT-kSmLW-1617215531709
+2021-04-01 00:25:22,011-INFO-file ta_142_ta successfully processed 
+2021-04-01 00:25:22,020-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/142/en_142_en.pdf
+2021-04-01 00:25:23,250-INFO-en_142_en upload response : {'data': 'b28a4d42-7e7d-4844-a7eb-c13218decc9a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 00:25:23,250-INFO-Language detected en
+2021-04-01 00:25:23,250-INFO-OCR and Toeknization statred  for en_142_en
+2021-04-01 00:25:23,969-INFO-process started for file  en_142_en with job id A_FWLBOD15GOT-XTjyf-1617216923877
+2021-04-01 00:58:12,407-INFO-file ta_55_ta successfully processed 
+2021-04-01 00:58:12,436-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/36/en_36_en.pdf
+2021-04-01 00:58:13,541-INFO-en_36_en upload response : {'data': 'c91b7375-7889-46a8-a5ff-41397f9471eb.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 00:58:13,541-INFO-Language detected en
+2021-04-01 00:58:13,541-INFO-OCR and Toeknization statred  for en_36_en
+2021-04-01 00:58:14,363-INFO-process started for file  en_36_en with job id A_FWLBOD15GOT-BMpwH-1617218894050
+2021-04-01 01:01:20,886-INFO-file en_142_en successfully processed 
+2021-04-01 01:01:20,897-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/57/ta_57_ta.pdf
+2021-04-01 01:01:22,455-INFO-ta_57_ta upload response : {'data': 'c4c226d0-cc2d-446f-95da-57df6c4a9a13.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 01:01:22,456-INFO-Language detected ta
+2021-04-01 01:01:22,456-INFO-OCR and Toeknization statred  for ta_57_ta
+2021-04-01 01:01:23,296-INFO-process started for file  ta_57_ta with job id A_FWLBOD15GOT-FoakC-1617219082959
+2021-04-01 01:07:35,911-INFO-file ta_153_ta successfully processed 
+2021-04-01 01:07:35,976-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/36/ta_36_ta.pdf
+2021-04-01 01:07:36,920-INFO-ta_36_ta upload response : {'data': 'dddd97ef-73ea-46a9-bb77-07cceae6aaf9.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 01:07:36,921-INFO-Language detected ta
+2021-04-01 01:07:36,921-INFO-OCR and Toeknization statred  for ta_36_ta
+2021-04-01 01:07:37,764-INFO-process started for file  ta_36_ta with job id A_FWLBOD15GOT-XFxYt-1617219457441
+2021-04-01 01:08:16,043-INFO-file en_36_en successfully processed 
+2021-04-01 01:08:16,048-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/38/ta_38_ta.pdf
+2021-04-01 01:08:17,128-INFO-ta_38_ta upload response : {'data': '09241d9d-d944-46a6-bd38-588e6d1af2dc.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 01:08:17,128-INFO-Language detected ta
+2021-04-01 01:08:17,128-INFO-OCR and Toeknization statred  for ta_38_ta
+2021-04-01 01:08:17,849-INFO-process started for file  ta_38_ta with job id A_FWLBOD15GOT-BSBRJ-1617219497522
+2021-04-01 01:20:52,976-INFO-file ta_36_ta successfully processed 
+2021-04-01 01:20:52,979-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/38/en_38_en.pdf
+2021-04-01 01:20:54,043-INFO-en_38_en upload response : {'data': '274798c9-e587-4077-85aa-9e3b909abbe2.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 01:20:54,043-INFO-Language detected en
+2021-04-01 01:20:54,043-INFO-OCR and Toeknization statred  for en_38_en
+2021-04-01 01:20:54,520-INFO-process started for file  en_38_en with job id A_FWLBOD15GOT-SAuVP-1617220254398
+2021-04-01 01:23:29,707-INFO-file ta_38_ta successfully processed 
+2021-04-01 01:23:29,714-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/85/en_85_en.pdf
+2021-04-01 01:23:30,437-INFO-en_85_en upload response : {'data': '83ec77af-fb28-45a0-81fa-a9894c9a6923.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 01:23:30,437-INFO-Language detected en
+2021-04-01 01:23:30,437-INFO-OCR and Toeknization statred  for en_85_en
+2021-04-01 01:23:31,204-INFO-process started for file  en_85_en with job id A_FWLBOD15GOT-VulQH-1617220411075
+2021-04-01 01:38:00,510-INFO-file ta_57_ta successfully processed 
+2021-04-01 01:38:00,547-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/57/en_57_en.pdf
+2021-04-01 01:38:01,579-INFO-en_57_en upload response : {'data': '4d555693-183f-4076-bae1-d1ef15418826.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 01:38:01,579-INFO-Language detected en
+2021-04-01 01:38:01,579-INFO-OCR and Toeknization statred  for en_57_en
+2021-04-01 01:38:02,151-INFO-process started for file  en_57_en with job id A_FWLBOD15GOT-pIRLZ-1617221281932
+2021-04-01 01:39:48,273-INFO-file en_38_en successfully processed 
+2021-04-01 01:39:48,283-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/85/ta_85_ta.pdf
+2021-04-01 01:39:49,219-INFO-ta_85_ta upload response : {'data': 'afc35e2f-48fa-4505-88f5-e8198ab7df7d.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 01:39:49,220-INFO-Language detected ta
+2021-04-01 01:39:49,220-INFO-OCR and Toeknization statred  for ta_85_ta
+2021-04-01 01:39:49,972-INFO-process started for file  ta_85_ta with job id A_FWLBOD15GOT-QjfQT-1617221389627
+2021-04-01 01:41:38,768-INFO-file en_85_en successfully processed 
+2021-04-01 01:41:38,776-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/126/ta_126_ta.pdf
+2021-04-01 01:41:39,683-INFO-ta_126_ta upload response : {'data': '475ed1e4-2336-4e07-80e7-5ca0a37b5139.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 01:41:39,683-INFO-Language detected ta
+2021-04-01 01:41:39,684-INFO-OCR and Toeknization statred  for ta_126_ta
+2021-04-01 01:41:40,244-INFO-process started for file  ta_126_ta with job id A_FWLBOD15GOT-aiOqe-1617221500147
+2021-04-01 01:52:36,703-INFO-file ta_85_ta successfully processed 
+2021-04-01 01:52:36,711-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/126/en_126_en.pdf
+2021-04-01 01:52:37,854-INFO-en_126_en upload response : {'data': '5b30a715-dae6-494a-9ebf-7e3c1afe9bfe.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 01:52:37,854-INFO-Language detected en
+2021-04-01 01:52:37,855-INFO-OCR and Toeknization statred  for en_126_en
+2021-04-01 01:52:38,334-INFO-process started for file  en_126_en with job id A_FWLBOD15GOT-EYnFu-1617222158232
+2021-04-01 02:13:06,339-INFO-file en_57_en successfully processed 
+2021-04-01 02:13:06,377-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/178/ta_178_ta.pdf
+2021-04-01 02:13:07,203-INFO-ta_178_ta upload response : {'data': 'c47aa738-0f81-471c-baff-4b0e96d65ac5.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:13:07,203-INFO-Language detected ta
+2021-04-01 02:13:07,203-INFO-OCR and Toeknization statred  for ta_178_ta
+2021-04-01 02:13:07,774-INFO-process started for file  ta_178_ta with job id A_FWLBOD15GOT-zXzEg-1617223387600
+2021-04-01 02:15:20,872-INFO-file ta_126_ta successfully processed 
+2021-04-01 02:15:20,884-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/128/en_128_en.pdf
+2021-04-01 02:15:21,910-INFO-en_128_en upload response : {'data': '8ecd75fd-df5a-4153-b6ce-182f9c47dbb1.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:15:21,910-INFO-Language detected en
+2021-04-01 02:15:21,910-INFO-OCR and Toeknization statred  for en_128_en
+2021-04-01 02:15:22,400-INFO-process started for file  en_128_en with job id A_FWLBOD15GOT-qjuRi-1617223522306
+2021-04-01 02:19:59,648-INFO-file en_126_en successfully processed 
+2021-04-01 02:19:59,662-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/128/ta_128_ta.pdf
+2021-04-01 02:20:00,737-INFO-ta_128_ta upload response : {'data': '96466151-72d3-4022-afc7-61ebb5c37af1.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:20:00,737-INFO-Language detected ta
+2021-04-01 02:20:00,737-INFO-OCR and Toeknization statred  for ta_128_ta
+2021-04-01 02:20:01,351-INFO-process started for file  ta_128_ta with job id A_FWLBOD15GOT-lFbmk-1617223801241
+2021-04-01 02:24:19,212-INFO-file ta_178_ta successfully processed 
+2021-04-01 02:24:19,218-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/178/en_178_en.pdf
+2021-04-01 02:24:20,316-INFO-en_178_en upload response : {'data': 'a30c3bc9-0567-4357-a7e9-b88b59bc5bf0.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:24:20,316-INFO-Language detected en
+2021-04-01 02:24:20,316-INFO-OCR and Toeknization statred  for en_178_en
+2021-04-01 02:24:20,831-INFO-process started for file  en_178_en with job id A_FWLBOD15GOT-AqSuE-1617224060732
+2021-04-01 02:36:35,944-INFO-file en_128_en successfully processed 
+2021-04-01 02:36:35,959-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/26/ta_26_ta.pdf
+2021-04-01 02:36:36,673-INFO-ta_26_ta upload response : {'data': 'ab2cfcd9-1e48-4cdb-8549-87fbd6e831cf.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:36:36,674-INFO-Language detected ta
+2021-04-01 02:36:36,674-INFO-OCR and Toeknization statred  for ta_26_ta
+2021-04-01 02:36:37,219-INFO-process started for file  ta_26_ta with job id A_FWLBOD15GOT-AmzSS-1617224797111
+2021-04-01 02:38:03,388-INFO-file en_178_en successfully processed 
+2021-04-01 02:38:03,395-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/102/ta_102_ta.pdf
+2021-04-01 02:38:04,719-INFO-ta_102_ta upload response : {'data': '01446271-ce27-48cc-bfed-e0c8aef41abf.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:38:04,719-INFO-Language detected ta
+2021-04-01 02:38:04,719-INFO-OCR and Toeknization statred  for ta_102_ta
+2021-04-01 02:38:05,259-INFO-process started for file  ta_102_ta with job id A_FWLBOD15GOT-WfIks-1617224885134
+2021-04-01 02:39:07,632-INFO-file ta_26_ta successfully processed 
+2021-04-01 02:39:07,634-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/26/en_26_en.pdf
+2021-04-01 02:39:08,329-INFO-en_26_en upload response : {'data': '30eb9c9c-07f9-4964-85ab-0e86509607fc.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:39:08,329-INFO-Language detected en
+2021-04-01 02:39:08,329-INFO-OCR and Toeknization statred  for en_26_en
+2021-04-01 02:39:09,152-INFO-process started for file  en_26_en with job id A_FWLBOD15GOT-HVZAS-1617224948752
+2021-04-01 02:42:37,446-INFO-file ta_128_ta successfully processed 
+2021-04-01 02:42:37,457-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/185/en_185_en.pdf
+2021-04-01 02:42:38,599-INFO-en_185_en upload response : {'data': '56879860-f2d8-48a9-bedb-ea56b629b091.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:42:38,599-INFO-Language detected en
+2021-04-01 02:42:38,599-INFO-OCR and Toeknization statred  for en_185_en
+2021-04-01 02:42:39,082-INFO-process started for file  en_185_en with job id A_FWLBOD15GOT-ytoJB-1617225159019
+2021-04-01 02:48:12,623-INFO-file en_26_en successfully processed 
+2021-04-01 02:48:12,624-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/185/ta_185_ta.pdf
+2021-04-01 02:48:13,411-INFO-ta_185_ta upload response : {'data': 'b203f10a-ad7f-4d48-88d2-b60e29372bdb.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:48:13,411-INFO-Language detected ta
+2021-04-01 02:48:13,412-INFO-OCR and Toeknization statred  for ta_185_ta
+2021-04-01 02:48:14,310-INFO-process started for file  ta_185_ta with job id A_FWLBOD15GOT-jwAAd-1617225494230
+2021-04-01 02:57:47,116-INFO-file en_185_en successfully processed 
+2021-04-01 02:57:47,132-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/51/ta_51_ta.pdf
+2021-04-01 02:57:47,884-INFO-ta_51_ta upload response : {'data': 'b762e0e1-c0ab-41b7-868e-4389dc5f135c.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 02:57:47,884-INFO-Language detected ta
+2021-04-01 02:57:47,884-INFO-OCR and Toeknization statred  for ta_51_ta
+2021-04-01 02:57:48,439-INFO-process started for file  ta_51_ta with job id A_FWLBOD15GOT-ihBNX-1617226068313
+2021-04-01 03:03:23,069-INFO-file ta_51_ta successfully processed 
+2021-04-01 03:03:23,075-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/51/en_51_en.pdf
+2021-04-01 03:03:24,024-INFO-en_51_en upload response : {'data': 'a575eb3d-2973-49c6-b778-db255cbce901.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 03:03:24,024-INFO-Language detected en
+2021-04-01 03:03:24,024-INFO-OCR and Toeknization statred  for en_51_en
+2021-04-01 03:03:24,580-INFO-process started for file  en_51_en with job id A_FWLBOD15GOT-SHcEm-1617226404427
+2021-04-01 03:04:22,346-INFO-file ta_185_ta successfully processed 
+2021-04-01 03:04:22,359-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/154/en_154_en.pdf
+2021-04-01 03:04:23,579-INFO-en_154_en upload response : {'data': 'b9241559-38f2-49b5-8a1c-d0102767f1fe.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 03:04:23,579-INFO-Language detected en
+2021-04-01 03:04:23,579-INFO-OCR and Toeknization statred  for en_154_en
+2021-04-01 03:04:24,082-INFO-process started for file  en_154_en with job id A_FWLBOD15GOT-FvdaE-1617226463998
+2021-04-01 03:12:09,764-INFO-file en_51_en successfully processed 
+2021-04-01 03:12:09,769-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/154/ta_154_ta.pdf
+2021-04-01 03:12:11,231-INFO-ta_154_ta upload response : {'data': 'd0f90af3-7ab9-4e9d-9d3b-29eb84831bd1.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 03:12:11,232-INFO-Language detected ta
+2021-04-01 03:12:11,232-INFO-OCR and Toeknization statred  for ta_154_ta
+2021-04-01 03:12:11,734-INFO-process started for file  ta_154_ta with job id A_FWLBOD15GOT-dBoOe-1617226931643
+2021-04-01 03:25:15,551-INFO-file ta_102_ta successfully processed 
+2021-04-01 03:25:15,599-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/102/en_102_en.pdf
+2021-04-01 03:25:16,764-INFO-en_102_en upload response : {'data': 'ef5bb7d1-c252-4879-be00-ad3e333b6544.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 03:25:16,764-INFO-Language detected en
+2021-04-01 03:25:16,764-INFO-OCR and Toeknization statred  for en_102_en
+2021-04-01 03:25:17,661-INFO-process started for file  en_102_en with job id A_FWLBOD15GOT-RZLgZ-1617227717344
+2021-04-01 04:03:33,252-INFO-file en_102_en successfully processed 
+2021-04-01 04:03:33,295-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/140/en_140_en.pdf
+2021-04-01 04:03:34,431-INFO-en_140_en upload response : {'data': '1f0017a2-e76a-47ed-81fb-f2aa59c39ed6.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 04:03:34,431-INFO-Language detected en
+2021-04-01 04:03:34,431-INFO-OCR and Toeknization statred  for en_140_en
+2021-04-01 04:03:35,212-INFO-process started for file  en_140_en with job id A_FWLBOD15GOT-YTFUS-1617230015025
+2021-04-01 04:59:55,203-INFO-file ta_154_ta successfully processed 
+2021-04-01 04:59:55,279-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/159/ta_159_ta.pdf
+2021-04-01 04:59:56,543-INFO-ta_159_ta upload response : {'data': 'b8e7783b-a140-4be7-b0b6-2bf4e9bb8490.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 04:59:56,543-INFO-Language detected ta
+2021-04-01 04:59:56,543-INFO-OCR and Toeknization statred  for ta_159_ta
+2021-04-01 04:59:57,013-INFO-process started for file  ta_159_ta with job id A_FWLBOD15GOT-bVbee-1617233396976
+2021-04-01 04:59:59,290-INFO-file en_140_en successfully processed 
+2021-04-01 04:59:59,318-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/140/ta_140_ta.pdf
+2021-04-01 05:00:00,075-INFO-ta_140_ta upload response : {'data': '73819df5-96d8-4d22-9fb0-1899e2aa9abb.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 05:00:00,076-INFO-Language detected ta
+2021-04-01 05:00:00,076-INFO-OCR and Toeknization statred  for ta_140_ta
+2021-04-01 05:00:00,948-INFO-process started for file  ta_140_ta with job id A_FWLBOD15GOT-lsNdl-1617233400709
+2021-04-01 05:24:18,566-INFO-file ta_140_ta successfully processed 
+2021-04-01 05:24:18,593-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/88/en_88_en.pdf
+2021-04-01 05:24:19,677-INFO-en_88_en upload response : {'data': '92642e7b-537b-4bfa-abb0-bc24c086df3a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 05:24:19,677-INFO-Language detected en
+2021-04-01 05:24:19,678-INFO-OCR and Toeknization statred  for en_88_en
+2021-04-01 05:24:20,192-INFO-process started for file  en_88_en with job id A_FWLBOD15GOT-IJuSB-1617234860070
+2021-04-01 05:30:32,197-INFO-file en_154_en successfully processed 
+2021-04-01 05:30:32,307-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/159/en_159_en.pdf
+2021-04-01 05:30:33,241-INFO-en_159_en upload response : {'data': 'ea55af9c-eb62-4670-bc7a-4bf673255c2c.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 05:30:33,242-INFO-Language detected en
+2021-04-01 05:30:33,242-INFO-OCR and Toeknization statred  for en_159_en
+2021-04-01 05:30:33,817-INFO-process started for file  en_159_en with job id A_FWLBOD15GOT-ZtaSQ-1617235233640
+2021-04-01 05:39:48,542-INFO-file ta_159_ta successfully processed 
+2021-04-01 05:39:48,557-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/110/ta_110_ta.pdf
+2021-04-01 05:39:49,645-INFO-ta_110_ta upload response : {'data': '280927b5-9c19-4eef-b24c-80fd46d8ffc6.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 05:39:49,646-INFO-Language detected ta
+2021-04-01 05:39:49,646-INFO-OCR and Toeknization statred  for ta_110_ta
+2021-04-01 05:39:50,263-INFO-process started for file  ta_110_ta with job id A_FWLBOD15GOT-rVFaD-1617235790129
+2021-04-01 06:06:52,979-INFO-file en_88_en successfully processed 
+2021-04-01 06:06:53,023-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/88/ta_88_ta.pdf
+2021-04-01 06:06:53,860-INFO-ta_88_ta upload response : {'data': 'df0d4252-692a-4878-9733-d9b2bfed2715.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 06:06:53,860-INFO-Language detected ta
+2021-04-01 06:06:53,860-INFO-OCR and Toeknization statred  for ta_88_ta
+2021-04-01 06:06:54,587-INFO-process started for file  ta_88_ta with job id A_FWLBOD15GOT-tSHYq-1617237414504
+2021-04-01 06:07:03,143-INFO-file en_159_en successfully processed 
+2021-04-01 06:07:03,161-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/110/en_110_en.pdf
+2021-04-01 06:07:03,903-INFO-en_110_en upload response : {'data': '145c8811-0435-4111-b5f4-eec5083f661c.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 06:07:03,903-INFO-Language detected en
+2021-04-01 06:07:03,904-INFO-OCR and Toeknization statred  for en_110_en
+2021-04-01 06:07:04,514-INFO-process started for file  en_110_en with job id A_FWLBOD15GOT-WLffx-1617237424393
+2021-04-01 06:10:47,274-INFO-file ta_110_ta successfully processed 
+2021-04-01 06:10:47,289-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/130/en_130_en.pdf
+2021-04-01 06:10:48,365-INFO-en_130_en upload response : {'data': '517e0d89-17b7-44df-93e9-7fc86544f4ab.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 06:10:48,365-INFO-Language detected en
+2021-04-01 06:10:48,365-INFO-OCR and Toeknization statred  for en_130_en
+2021-04-01 06:10:48,891-INFO-process started for file  en_130_en with job id A_FWLBOD15GOT-MszyF-1617237648841
+2021-04-01 06:32:36,433-INFO-file en_130_en successfully processed 
+2021-04-01 06:32:36,448-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/130/ta_130_ta.pdf
+2021-04-01 06:32:37,269-INFO-ta_130_ta upload response : {'data': 'f58f1ffd-d445-4f68-9db4-e2bcd53aa80e.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 06:32:37,270-INFO-Language detected ta
+2021-04-01 06:32:37,270-INFO-OCR and Toeknization statred  for ta_130_ta
+2021-04-01 06:32:37,902-INFO-process started for file  ta_130_ta with job id A_FWLBOD15GOT-ksGim-1617238957700
+2021-04-01 06:39:34,051-INFO-file en_110_en successfully processed 
+2021-04-01 06:39:34,071-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/22/en_22_en.pdf
+2021-04-01 06:39:35,283-INFO-en_22_en upload response : {'data': '95ba3d6e-5058-400e-a4d4-d5082c581b0e.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 06:39:35,283-INFO-Language detected en
+2021-04-01 06:39:35,283-INFO-OCR and Toeknization statred  for en_22_en
+2021-04-01 06:39:35,794-INFO-process started for file  en_22_en with job id A_FWLBOD15GOT-xxyBg-1617239375721
+2021-04-01 06:49:33,168-INFO-file ta_88_ta successfully processed 
+2021-04-01 06:49:33,204-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/93/ta_93_ta.pdf
+2021-04-01 06:49:33,990-INFO-ta_93_ta upload response : {'data': '9d426a70-251e-464d-a171-b33a88eca429.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 06:49:33,990-INFO-Language detected ta
+2021-04-01 06:49:33,990-INFO-OCR and Toeknization statred  for ta_93_ta
+2021-04-01 06:49:34,464-INFO-process started for file  ta_93_ta with job id A_FWLBOD15GOT-MeMcJ-1617239974411
+2021-04-01 06:53:29,195-INFO-file ta_130_ta successfully processed 
+2021-04-01 06:53:29,206-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/22/ta_22_ta.pdf
+2021-04-01 06:53:30,073-INFO-ta_22_ta upload response : {'data': '86e68fe0-f2b6-4531-a3a8-51f12c847d0a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 06:53:30,073-INFO-Language detected ta
+2021-04-01 06:53:30,073-INFO-OCR and Toeknization statred  for ta_22_ta
+2021-04-01 06:53:30,702-INFO-process started for file  ta_22_ta with job id A_FWLBOD15GOT-UnBQg-1617240210479
+2021-04-01 07:15:56,281-INFO-file ta_93_ta successfully processed 
+2021-04-01 07:15:56,292-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/93/en_93_en.pdf
+2021-04-01 07:15:57,178-INFO-en_93_en upload response : {'data': 'a285c128-b300-49a3-8d80-a7a5a62ea93e.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 07:15:57,178-INFO-Language detected en
+2021-04-01 07:15:57,178-INFO-OCR and Toeknization statred  for en_93_en
+2021-04-01 07:15:57,868-INFO-process started for file  en_93_en with job id A_FWLBOD15GOT-fNwua-1617241557795
+2021-04-01 07:34:42,464-INFO-file en_22_en successfully processed 
+2021-04-01 07:34:42,510-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/132/en_132_en.pdf
+2021-04-01 07:34:43,495-INFO-en_132_en upload response : {'data': 'c1ede89f-c067-43d3-9c9f-e6c5b322b7aa.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 07:34:43,495-INFO-Language detected en
+2021-04-01 07:34:43,495-INFO-OCR and Toeknization statred  for en_132_en
+2021-04-01 07:34:44,162-INFO-process started for file  en_132_en with job id A_FWLBOD15GOT-oNRJM-1617242684089
+2021-04-01 07:41:29,161-INFO-file en_93_en successfully processed 
+2021-04-01 07:41:29,177-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/34/en_34_en.pdf
+2021-04-01 07:41:30,103-INFO-en_34_en upload response : {'data': 'ad9ef0c4-909c-4c17-a169-bbcefe6fa25b.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 07:41:30,103-INFO-Language detected en
+2021-04-01 07:41:30,103-INFO-OCR and Toeknization statred  for en_34_en
+2021-04-01 07:41:30,585-INFO-process started for file  en_34_en with job id A_FWLBOD15GOT-lWBGS-1617243090510
+2021-04-01 07:47:22,847-INFO-file en_34_en successfully processed 
+2021-04-01 07:47:22,850-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/34/ta_34_ta.pdf
+2021-04-01 07:47:23,897-INFO-ta_34_ta upload response : {'data': 'f4ccca2d-d346-492b-8c02-dc143c5de073.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 07:47:23,897-INFO-Language detected ta
+2021-04-01 07:47:23,897-INFO-OCR and Toeknization statred  for ta_34_ta
+2021-04-01 07:47:24,514-INFO-process started for file  ta_34_ta with job id A_FWLBOD15GOT-vUrmE-1617243444309
+2021-04-01 07:52:54,300-INFO-file en_132_en successfully processed 
+2021-04-01 07:52:54,314-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/132/ta_132_ta.pdf
+2021-04-01 07:52:55,470-INFO-ta_132_ta upload response : {'data': '69f46aae-3981-427d-ab7f-0e6314de4a1f.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 07:52:55,470-INFO-Language detected ta
+2021-04-01 07:52:55,470-INFO-OCR and Toeknization statred  for ta_132_ta
+2021-04-01 07:52:55,954-INFO-process started for file  ta_132_ta with job id A_FWLBOD15GOT-OULih-1617243775885
+2021-04-01 07:53:43,087-INFO-file ta_34_ta successfully processed 
+2021-04-01 07:53:43,090-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/193/ta_193_ta.pdf
+2021-04-01 07:53:44,625-INFO-ta_193_ta upload response : {'data': '35828af6-fb4b-425e-9fc3-6fd2dbf04847.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 07:53:44,626-INFO-Language detected ta
+2021-04-01 07:53:44,626-INFO-OCR and Toeknization statred  for ta_193_ta
+2021-04-01 07:53:45,241-INFO-process started for file  ta_193_ta with job id A_FWLBOD15GOT-aJUtr-1617243825059
+2021-04-01 07:56:09,967-INFO-file ta_22_ta successfully processed 
+2021-04-01 07:56:10,002-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/97/en_97_en.pdf
+2021-04-01 07:56:11,156-INFO-en_97_en upload response : {'data': 'd6f19bb2-dbd6-45e7-a2d8-f53bf05ee2e4.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 07:56:11,157-INFO-Language detected en
+2021-04-01 07:56:11,157-INFO-OCR and Toeknization statred  for en_97_en
+2021-04-01 07:56:11,618-INFO-process started for file  en_97_en with job id A_FWLBOD15GOT-yGxdk-1617243971554
+2021-04-01 07:59:06,387-INFO-file en_97_en successfully processed 
+2021-04-01 07:59:06,389-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/97/ta_97_ta.pdf
+2021-04-01 07:59:07,536-INFO-ta_97_ta upload response : {'data': '9ab572c7-f398-41e6-95fa-f1662a50c220.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 07:59:07,536-INFO-Language detected ta
+2021-04-01 07:59:07,536-INFO-OCR and Toeknization statred  for ta_97_ta
+2021-04-01 07:59:08,014-INFO-process started for file  ta_97_ta with job id A_FWLBOD15GOT-ncNWi-1617244147942
+2021-04-01 08:02:29,204-INFO-file ta_97_ta successfully processed 
+2021-04-01 08:02:29,206-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/104/en_104_en.pdf
+2021-04-01 08:02:30,345-INFO-en_104_en upload response : {'data': '2dd3038f-dbcd-4a4f-9338-d0750e4250e6.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 08:02:30,345-INFO-Language detected en
+2021-04-01 08:02:30,345-INFO-OCR and Toeknization statred  for en_104_en
+2021-04-01 08:02:30,859-INFO-process started for file  en_104_en with job id A_FWLBOD15GOT-bkNTP-1617244350760
+2021-04-01 08:14:10,651-INFO-file ta_132_ta successfully processed 
+2021-04-01 08:14:10,663-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/104/ta_104_ta.pdf
+2021-04-01 08:14:12,016-INFO-ta_104_ta upload response : {'data': 'f9128e2e-6926-435a-a9f1-f4be8f52ea1c.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 08:14:12,016-INFO-Language detected ta
+2021-04-01 08:14:12,016-INFO-OCR and Toeknization statred  for ta_104_ta
+2021-04-01 08:14:12,507-INFO-process started for file  ta_104_ta with job id A_FWLBOD15GOT-syKiY-1617245052426
+2021-04-01 09:05:35,974-INFO- Authentication successful 
+
+2021-04-01 09:05:35,984-ERROR-Parallel pdfs missing for file 162 
+2021-04-01 09:05:35,984-ERROR-Parallel pdfs missing for file 163 
+2021-04-01 09:05:35,985-ERROR-Parallel pdfs missing for file 35 
+2021-04-01 09:05:35,985-ERROR-Parallel pdfs missing for file 5 
+2021-04-01 09:05:35,985-ERROR-Parallel pdfs missing for file 11 
+2021-04-01 09:05:35,986-ERROR-Parallel pdfs missing for file 109 
+2021-04-01 09:05:35,986-ERROR-Parallel pdfs missing for file 133 
+2021-04-01 09:05:35,986-ERROR-Parallel pdfs missing for file 182 
+2021-04-01 09:05:35,987-ERROR-Parallel pdfs missing for file 160 
+2021-04-01 09:05:35,987-ERROR-Parallel pdfs missing for file 147 
+2021-04-01 09:05:35,988-ERROR-Parallel pdfs missing for file 1 
+2021-04-01 09:05:35,988-ERROR-Parallel pdfs missing for file 106 
+2021-04-01 09:05:35,988-ERROR-Parallel pdfs missing for file 197 
+2021-04-01 09:05:35,988-ERROR-Parallel pdfs missing for file 139 
+2021-04-01 09:05:35,989-ERROR-Parallel pdfs missing for file 166 
+2021-04-01 09:05:35,989-ERROR-Parallel pdfs missing for file 107 
+2021-04-01 09:05:35,989-ERROR-Parallel pdfs missing for file 199 
+2021-04-01 09:05:35,990-ERROR-Parallel pdfs missing for file 149 
+2021-04-01 09:05:35,990-ERROR-Parallel pdfs missing for file 194 
+2021-04-01 09:05:35,990-ERROR-Parallel pdfs missing for file 184 
+2021-04-01 09:05:35,990-ERROR-Parallel pdfs missing for file 69 
+2021-04-01 09:05:35,991-ERROR-Parallel pdfs missing for file 39 
+2021-04-01 09:05:35,991-ERROR-Parallel pdfs missing for file 73 
+2021-04-01 09:05:35,991-ERROR-Parallel pdfs missing for file 70 
+2021-04-01 09:05:36,002-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/78/en_78_en.pdf
+2021-04-01 09:05:36,011-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/121/en_121_en.pdf
+2021-04-01 09:05:36,011-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/193/ta_193_ta.pdf
+2021-04-01 09:05:38,031-INFO-en_121_en upload response : {'data': '5d9d91f8-feba-455f-ad62-f834c9904607.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 09:05:38,031-INFO-en_78_en upload response : {'data': 'e200a75c-f256-498d-9939-399a2691c778.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 09:05:38,031-INFO-ta_193_ta upload response : {'data': 'f5a2ae5a-deec-4107-9f6f-a72dfde30f6c.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 09:05:38,032-INFO-Language detected en
+2021-04-01 09:05:38,032-INFO-Language detected en
+2021-04-01 09:05:38,033-INFO-OCR and Toeknization statred  for en_78_en
+2021-04-01 09:05:38,033-INFO-Language detected ta
+2021-04-01 09:05:38,033-INFO-OCR and Toeknization statred  for en_121_en
+2021-04-01 09:05:38,033-INFO-OCR and Toeknization statred  for ta_193_ta
+2021-04-01 09:05:38,636-INFO-process started for file  ta_193_ta with job id A_FWLBOD15GOT-EnidF-1617248138457
+2021-04-01 09:05:38,870-INFO-process started for file  en_78_en with job id A_FWLBOD15GOT-QWkfQ-1617248138696
+2021-04-01 09:05:39,113-INFO-process started for file  en_121_en with job id A_FWLBOD15GOT-HBMRD-1617248138928
+2021-04-01 09:35:15,748-INFO-file en_104_en successfully processed 
+2021-04-01 09:35:15,824-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/2/ta_2_ta.pdf
+2021-04-01 09:35:17,548-INFO-ta_2_ta upload response : {'data': '00405f6d-f557-45a1-9b73-2b152ff94a71.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 09:35:17,551-INFO-Language detected ta
+2021-04-01 09:35:17,556-INFO-OCR and Toeknization statred  for ta_2_ta
+2021-04-01 09:35:18,457-INFO-process started for file  ta_2_ta with job id A_FWLBOD15GOT-xcRGv-1617249918196
+2021-04-01 09:37:56,612-INFO-file en_121_en successfully processed 
+2021-04-01 09:37:56,626-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/193/en_193_en.pdf
+2021-04-01 09:37:58,160-INFO-en_193_en upload response : {'data': 'cb694482-13f9-4651-8948-e2844676ce9c.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 09:37:58,162-INFO-Language detected en
+2021-04-01 09:37:58,162-INFO-OCR and Toeknization statred  for en_193_en
+2021-04-01 09:37:58,997-INFO-process started for file  en_193_en with job id A_FWLBOD15GOT-mAYRJ-1617250078835
+2021-04-01 09:43:42,553-INFO-file en_78_en successfully processed 
+2021-04-01 09:43:42,572-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/200/ta_200_ta.pdf
+2021-04-01 09:43:44,931-INFO-ta_200_ta upload response : {'data': '9dbc7c06-935b-4c91-969c-082576d38567.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 09:43:44,932-INFO-Language detected ta
+2021-04-01 09:43:44,932-INFO-OCR and Toeknization statred  for ta_200_ta
+2021-04-01 09:43:45,602-INFO-process started for file  ta_200_ta with job id A_FWLBOD15GOT-QyjlF-1617250425544
+2021-04-01 09:47:38,498-INFO-file ta_104_ta successfully processed 
+2021-04-01 09:47:38,581-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/2/en_2_en.pdf
+2021-04-01 09:47:40,145-INFO-en_2_en upload response : {'data': '2b0e4907-0ac9-4fa5-ae94-9c7ed638f6f5.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 09:47:40,145-INFO-Language detected en
+2021-04-01 09:47:40,146-INFO-OCR and Toeknization statred  for en_2_en
+2021-04-01 09:47:40,762-INFO-process started for file  en_2_en with job id A_FWLBOD15GOT-XgdRV-1617250660581
+2021-04-01 09:50:32,131-INFO-file ta_193_ta successfully processed 
+2021-04-01 09:50:32,150-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/200/en_200_en.pdf
+2021-04-01 09:50:33,329-INFO-en_200_en upload response : {'data': '55775ded-a565-4046-a3db-9944531dcd19.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 09:50:33,330-INFO-Language detected en
+2021-04-01 09:50:33,331-INFO-OCR and Toeknization statred  for en_200_en
+2021-04-01 09:50:34,237-INFO-process started for file  en_200_en with job id A_FWLBOD15GOT-jmyQg-1617250834007
+2021-04-01 10:06:44,157-INFO-file ta_2_ta successfully processed 
+2021-04-01 10:06:44,175-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/14/en_14_en.pdf
+2021-04-01 10:06:45,320-INFO-en_14_en upload response : {'data': '2c753929-3551-41b3-9094-6af4d8c6c21a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 10:06:45,321-INFO-Language detected en
+2021-04-01 10:06:45,321-INFO-OCR and Toeknization statred  for en_14_en
+2021-04-01 10:06:46,117-INFO-process started for file  en_14_en with job id A_FWLBOD15GOT-YwETU-1617251805947
+2021-04-01 10:23:19,849-INFO-file en_2_en successfully processed 
+2021-04-01 10:23:19,872-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/14/ta_14_ta.pdf
+2021-04-01 10:23:22,207-INFO-ta_14_ta upload response : {'data': 'a52bc104-8492-4992-b9f0-57f1c243d668.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 10:23:22,208-INFO-Language detected ta
+2021-04-01 10:23:22,208-INFO-OCR and Toeknization statred  for ta_14_ta
+2021-04-01 10:23:22,796-INFO-process started for file  ta_14_ta with job id A_FWLBOD15GOT-dlYOU-1617252802778
+2021-04-01 10:29:17,444-INFO-file en_193_en successfully processed 
+2021-04-01 10:29:17,468-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/170/ta_170_ta.pdf
+2021-04-01 10:29:19,342-INFO-ta_170_ta upload response : {'data': '2b22aaab-135a-4341-9ae3-0f1540ae3c93.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 10:29:19,345-INFO-Language detected ta
+2021-04-01 10:29:19,345-INFO-OCR and Toeknization statred  for ta_170_ta
+2021-04-01 10:29:19,925-INFO-process started for file  ta_170_ta with job id A_FWLBOD15GOT-tPwpT-1617253159912
+2021-04-01 11:02:20,347-INFO-file ta_170_ta successfully processed 
+2021-04-01 11:02:20,362-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/170/en_170_en.pdf
+2021-04-01 11:02:22,395-INFO-en_170_en upload response : {'data': '0c00bcd3-1e4f-420e-b34a-5b04873e003a.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:02:22,397-INFO-Language detected en
+2021-04-01 11:02:22,397-INFO-OCR and Toeknization statred  for en_170_en
+2021-04-01 11:02:23,425-INFO-process started for file  en_170_en with job id A_FWLBOD15GOT-PqsSw-1617255142931
+2021-04-01 11:20:40,122-INFO-file en_14_en successfully processed 
+2021-04-01 11:20:40,154-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/146/ta_146_ta.pdf
+2021-04-01 11:20:41,483-INFO-ta_146_ta upload response : {'data': 'dd9d2b11-1861-4cf9-a7bd-ece8016d4898.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:20:41,484-INFO-Language detected ta
+2021-04-01 11:20:41,484-INFO-OCR and Toeknization statred  for ta_146_ta
+2021-04-01 11:20:42,401-INFO-process started for file  ta_146_ta with job id A_FWLBOD15GOT-JwSDW-1617256242094
+2021-04-01 11:25:22,701-INFO-file en_170_en successfully processed 
+2021-04-01 11:25:22,717-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/123/ta_123_ta.pdf
+2021-04-01 11:25:23,625-INFO-ta_123_ta upload response : {'data': '3f9d1814-cbdf-465c-8b0d-09be75f6417f.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:25:23,628-INFO-Language detected ta
+2021-04-01 11:25:23,628-INFO-OCR and Toeknization statred  for ta_123_ta
+2021-04-01 11:25:24,310-INFO-process started for file  ta_123_ta with job id A_FWLBOD15GOT-vBYrs-1617256524102
+2021-04-01 11:34:58,901-INFO-file ta_14_ta successfully processed 
+2021-04-01 11:34:58,933-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/146/en_146_en.pdf
+2021-04-01 11:35:00,071-INFO-en_146_en upload response : {'data': '77efddd2-3a43-4503-97e0-8eab8e07b4f8.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:35:00,072-INFO-Language detected en
+2021-04-01 11:35:00,073-INFO-OCR and Toeknization statred  for en_146_en
+2021-04-01 11:35:01,004-INFO-process started for file  en_146_en with job id A_FWLBOD15GOT-Aglgd-1617257100825
+2021-04-01 11:35:18,557-INFO-file ta_123_ta successfully processed 
+2021-04-01 11:35:18,559-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/123/en_123_en.pdf
+2021-04-01 11:35:19,461-INFO-en_123_en upload response : {'data': '97fe19d8-7d5b-4ae7-bd04-278f732687ba.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:35:19,463-INFO-Language detected en
+2021-04-01 11:35:19,464-INFO-OCR and Toeknization statred  for en_123_en
+2021-04-01 11:35:20,660-INFO-process started for file  en_123_en with job id A_FWLBOD15GOT-BwmVO-1617257119975
+2021-04-01 11:38:29,068-INFO-file ta_200_ta successfully processed 
+2021-04-01 11:38:29,116-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/105/ta_105_ta.pdf
+2021-04-01 11:38:30,323-INFO-ta_105_ta upload response : {'data': '2a8a1f72-2029-44b9-a824-e4ad7b5b3e78.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:38:30,325-INFO-Language detected ta
+2021-04-01 11:38:30,326-INFO-OCR and Toeknization statred  for ta_105_ta
+2021-04-01 11:38:31,359-INFO-process started for file  ta_105_ta with job id A_FWLBOD15GOT-mnwfs-1617257311187
+2021-04-01 11:39:21,935-INFO-file en_123_en successfully processed 
+2021-04-01 11:39:21,938-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/105/en_105_en.pdf
+2021-04-01 11:39:22,995-INFO-en_105_en upload response : {'data': '4c63424c-5309-4944-af35-60f05f8b9778.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:39:22,996-INFO-Language detected en
+2021-04-01 11:39:22,996-INFO-OCR and Toeknization statred  for en_105_en
+2021-04-01 11:39:23,690-INFO-process started for file  en_105_en with job id A_FWLBOD15GOT-qTIEN-1617257363521
+2021-04-01 11:43:28,676-INFO-file ta_146_ta successfully processed 
+2021-04-01 11:43:28,688-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/143/en_143_en.pdf
+2021-04-01 11:43:29,620-INFO-en_143_en upload response : {'data': '144c8ad6-287c-464a-a0a5-2cda8ba1b182.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:43:29,621-INFO-Language detected en
+2021-04-01 11:43:29,622-INFO-OCR and Toeknization statred  for en_143_en
+2021-04-01 11:43:30,305-INFO-process started for file  en_143_en with job id A_FWLBOD15GOT-PvUGS-1617257610139
+2021-04-01 11:49:05,257-INFO- Authentication successful 
+
+2021-04-01 11:49:05,278-ERROR-Parallel pdfs missing for file 162 
+2021-04-01 11:49:05,279-ERROR-Parallel pdfs missing for file 163 
+2021-04-01 11:49:05,281-ERROR-Parallel pdfs missing for file 35 
+2021-04-01 11:49:05,287-ERROR-Parallel pdfs missing for file 5 
+2021-04-01 11:49:05,288-ERROR-Parallel pdfs missing for file 11 
+2021-04-01 11:49:05,290-ERROR-Parallel pdfs missing for file 109 
+2021-04-01 11:49:05,294-ERROR-Parallel pdfs missing for file 133 
+2021-04-01 11:49:05,295-ERROR-Parallel pdfs missing for file 182 
+2021-04-01 11:49:05,296-ERROR-Parallel pdfs missing for file 160 
+2021-04-01 11:49:05,302-ERROR-Parallel pdfs missing for file 147 
+2021-04-01 11:49:05,304-ERROR-Parallel pdfs missing for file 1 
+2021-04-01 11:49:05,306-ERROR-Parallel pdfs missing for file 106 
+2021-04-01 11:49:05,308-ERROR-Parallel pdfs missing for file 197 
+2021-04-01 11:49:05,309-ERROR-Parallel pdfs missing for file 139 
+2021-04-01 11:49:05,310-ERROR-Parallel pdfs missing for file 166 
+2021-04-01 11:49:05,311-ERROR-Parallel pdfs missing for file 107 
+2021-04-01 11:49:05,312-ERROR-Parallel pdfs missing for file 199 
+2021-04-01 11:49:05,315-ERROR-Parallel pdfs missing for file 149 
+2021-04-01 11:49:05,316-ERROR-Parallel pdfs missing for file 194 
+2021-04-01 11:49:05,318-ERROR-Parallel pdfs missing for file 184 
+2021-04-01 11:49:05,321-ERROR-Parallel pdfs missing for file 69 
+2021-04-01 11:49:05,322-ERROR-Parallel pdfs missing for file 39 
+2021-04-01 11:49:05,324-ERROR-Parallel pdfs missing for file 73 
+2021-04-01 11:49:05,325-ERROR-Parallel pdfs missing for file 70 
+2021-04-01 11:49:05,335-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/200/en_200_en.pdf
+2021-04-01 11:49:05,341-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/105/ta_105_ta.pdf
+2021-04-01 11:49:06,685-INFO-en_200_en upload response : {'data': 'e15f2413-e350-472a-b60d-b95579ce0580.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:49:06,687-INFO-Language detected en
+2021-04-01 11:49:06,687-INFO-OCR and Toeknization statred  for en_200_en
+2021-04-01 11:49:07,253-INFO-ta_105_ta upload response : {'data': '77534ce9-ce09-491d-9df2-c36df4201cf2.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:49:07,255-INFO-Language detected ta
+2021-04-01 11:49:07,256-INFO-OCR and Toeknization statred  for ta_105_ta
+2021-04-01 11:49:07,399-INFO-process started for file  en_200_en with job id A_FWLBOD15GOT-YLDhY-1617257947326
+2021-04-01 11:49:07,961-INFO-process started for file  ta_105_ta with job id A_FWLBOD15GOT-iAOCM-1617257947800
+2021-04-01 11:49:26,904-INFO- Authentication successful 
+
+2021-04-01 11:49:26,910-ERROR-Parallel pdfs missing for file 162 
+2021-04-01 11:49:26,910-ERROR-Parallel pdfs missing for file 163 
+2021-04-01 11:49:26,911-ERROR-Parallel pdfs missing for file 35 
+2021-04-01 11:49:26,912-ERROR-Parallel pdfs missing for file 5 
+2021-04-01 11:49:26,912-ERROR-Parallel pdfs missing for file 11 
+2021-04-01 11:49:26,913-ERROR-Parallel pdfs missing for file 109 
+2021-04-01 11:49:26,914-ERROR-Parallel pdfs missing for file 133 
+2021-04-01 11:49:26,914-ERROR-Parallel pdfs missing for file 182 
+2021-04-01 11:49:26,914-ERROR-Parallel pdfs missing for file 160 
+2021-04-01 11:49:26,916-ERROR-Parallel pdfs missing for file 147 
+2021-04-01 11:49:26,916-ERROR-Parallel pdfs missing for file 1 
+2021-04-01 11:49:26,917-ERROR-Parallel pdfs missing for file 106 
+2021-04-01 11:49:26,918-ERROR-Parallel pdfs missing for file 197 
+2021-04-01 11:49:26,918-ERROR-Parallel pdfs missing for file 139 
+2021-04-01 11:49:26,918-ERROR-Parallel pdfs missing for file 166 
+2021-04-01 11:49:26,919-ERROR-Parallel pdfs missing for file 107 
+2021-04-01 11:49:26,919-ERROR-Parallel pdfs missing for file 199 
+2021-04-01 11:49:26,920-ERROR-Parallel pdfs missing for file 149 
+2021-04-01 11:49:26,921-ERROR-Parallel pdfs missing for file 194 
+2021-04-01 11:49:26,921-ERROR-Parallel pdfs missing for file 184 
+2021-04-01 11:49:26,922-ERROR-Parallel pdfs missing for file 69 
+2021-04-01 11:49:26,922-ERROR-Parallel pdfs missing for file 39 
+2021-04-01 11:49:26,923-ERROR-Parallel pdfs missing for file 73 
+2021-04-01 11:49:26,923-ERROR-Parallel pdfs missing for file 70 
+2021-04-01 11:49:26,930-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/153/en_153_en.pdf
+2021-04-01 11:49:26,932-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/154/en_154_en.pdf
+2021-04-01 11:49:28,678-INFO-en_154_en upload response : {'data': 'df8f18ca-f594-458f-bddc-4436e0af6039.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:49:28,680-INFO-Language detected en
+2021-04-01 11:49:28,681-INFO-OCR and Toeknization statred  for en_154_en
+2021-04-01 11:49:28,686-INFO-en_153_en upload response : {'data': 'ac1035e6-1784-4270-9043-bbc9046711e2.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 11:49:28,687-INFO-Language detected en
+2021-04-01 11:49:28,688-INFO-OCR and Toeknization statred  for en_153_en
+2021-04-01 11:49:29,368-INFO-process started for file  en_154_en with job id A_FWLBOD15GOT-owhhI-1617257969208
+2021-04-01 11:49:29,666-INFO-process started for file  en_153_en with job id A_FWLBOD15GOT-RpieN-1617257969488
+2021-04-01 12:17:44,602-INFO-file ta_105_ta successfully processed 
+2021-04-01 12:17:44,618-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/105/en_105_en.pdf
+2021-04-01 12:17:46,158-INFO-en_105_en upload response : {'data': '27d4c939-17f3-448b-9e18-ba7f3d8f22b7.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 12:17:46,158-INFO-Language detected en
+2021-04-01 12:17:46,159-INFO-OCR and Toeknization statred  for en_105_en
+2021-04-01 12:17:46,758-INFO-process started for file  en_105_en with job id A_FWLBOD15GOT-pnrEa-1617259666693
+2021-04-01 13:12:13,853-INFO-file en_200_en successfully processed 
+2021-04-01 13:12:13,896-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/77/en_77_en.pdf
+2021-04-01 13:12:14,835-INFO-en_77_en upload response : {'data': '9b0c2bb6-e1df-4c24-93a9-3475735b2afa.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 13:12:14,835-INFO-Language detected en
+2021-04-01 13:12:14,836-INFO-OCR and Toeknization statred  for en_77_en
+2021-04-01 13:12:15,972-INFO-process started for file  en_77_en with job id A_FWLBOD15GOT-jVaNU-1617262935736
+2021-04-01 13:14:03,967-INFO-file en_105_en successfully processed 
+2021-04-01 13:14:03,981-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/77/ta_77_ta.pdf
+2021-04-01 13:14:05,243-INFO-ta_77_ta upload response : {'data': '1b39af24-847e-432d-a578-017c9abfd999.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 13:14:05,244-INFO-Language detected ta
+2021-04-01 13:14:05,244-INFO-OCR and Toeknization statred  for ta_77_ta
+2021-04-01 13:14:06,255-INFO-process started for file  ta_77_ta with job id A_FWLBOD15GOT-PneCD-1617263045808
+2021-04-01 13:38:32,612-INFO-file en_77_en successfully processed 
+2021-04-01 13:38:32,628-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/67/en_67_en.pdf
+2021-04-01 13:38:34,135-INFO-en_67_en upload response : {'data': 'f3b293a0-2a45-4209-b251-99eeea87bfa8.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 13:38:34,136-INFO-Language detected en
+2021-04-01 13:38:34,136-INFO-OCR and Toeknization statred  for en_67_en
+2021-04-01 13:38:34,922-INFO-process started for file  en_67_en with job id A_FWLBOD15GOT-wBFyC-1617264514745
+2021-04-01 13:44:20,215-INFO-file en_154_en successfully processed 
+2021-04-01 13:44:20,294-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/146/en_146_en.pdf
+2021-04-01 13:44:21,410-INFO-en_146_en upload response : {'data': '8aa3edd6-c515-4f02-a8ef-f8b455017be5.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 13:44:21,410-INFO-Language detected en
+2021-04-01 13:44:21,410-INFO-OCR and Toeknization statred  for en_146_en
+2021-04-01 13:44:21,981-INFO-process started for file  en_146_en with job id A_FWLBOD15GOT-Bafwl-1617264861932
+2021-04-01 14:00:34,571-INFO-file en_153_en successfully processed 
+2021-04-01 14:00:34,667-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/143/en_143_en.pdf
+2021-04-01 14:00:35,948-INFO-en_143_en upload response : {'data': '53f6cb33-eb12-4dbe-bb5b-71322be474ff.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 14:00:35,949-INFO-Language detected en
+2021-04-01 14:00:35,949-INFO-OCR and Toeknization statred  for en_143_en
+2021-04-01 14:00:36,715-INFO-process started for file  en_143_en with job id A_FWLBOD15GOT-YFGNr-1617265836523
+2021-04-01 14:30:19,883-INFO-file en_146_en successfully processed 
+2021-04-01 14:30:19,901-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/143/ta_143_ta.pdf
+2021-04-01 14:30:21,215-INFO-ta_143_ta upload response : {'data': '85708723-d8fe-49e4-b5e2-9e936e2fef4c.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 14:30:21,217-INFO-Language detected ta
+2021-04-01 14:30:21,217-INFO-OCR and Toeknization statred  for ta_143_ta
+2021-04-01 14:30:21,764-INFO-process started for file  ta_143_ta with job id A_FWLBOD15GOT-BDIIB-1617267621691
+2021-04-01 14:33:25,902-INFO-file en_143_en successfully processed 
+2021-04-01 14:33:25,919-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/111/en_111_en.pdf
+2021-04-01 14:33:27,185-INFO-en_111_en upload response : {'data': 'e4227919-2738-4bc7-86c8-9efe3d91bdda.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 14:33:27,185-INFO-Language detected en
+2021-04-01 14:33:27,185-INFO-OCR and Toeknization statred  for en_111_en
+2021-04-01 14:33:27,954-INFO-process started for file  en_111_en with job id A_FWLBOD15GOT-YIzxZ-1617267807869
+2021-04-01 14:39:53,635-INFO-file ta_143_ta successfully processed 
+2021-04-01 14:39:53,648-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/111/ta_111_ta.pdf
+2021-04-01 14:39:55,187-INFO-ta_111_ta upload response : {'data': 'acb38318-10ae-402e-8277-757b47a84490.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 14:39:55,188-INFO-Language detected ta
+2021-04-01 14:39:55,188-INFO-OCR and Toeknization statred  for ta_111_ta
+2021-04-01 14:39:55,774-INFO-process started for file  ta_111_ta with job id A_FWLBOD15GOT-UfbRa-1617268195693
+2021-04-01 14:45:32,561-INFO-file en_111_en successfully processed 
+2021-04-01 14:45:32,576-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/145/ta_145_ta.pdf
+2021-04-01 14:45:33,496-INFO-ta_145_ta upload response : {'data': '8948632b-b6d0-4574-99e6-fc077a20cfb2.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 14:45:33,496-INFO-Language detected ta
+2021-04-01 14:45:33,497-INFO-OCR and Toeknization statred  for ta_145_ta
+2021-04-01 14:45:34,375-INFO-process started for file  ta_145_ta with job id A_FWLBOD15GOT-VbDKc-1617268534174
+2021-04-01 14:51:57,371-INFO-file ta_111_ta successfully processed 
+2021-04-01 14:51:57,386-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/145/en_145_en.pdf
+2021-04-01 14:51:58,411-INFO-en_145_en upload response : {'data': '661288fd-2f1c-490f-9a77-4041837ac136.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 14:51:58,413-INFO-Language detected en
+2021-04-01 14:51:58,414-INFO-OCR and Toeknization statred  for en_145_en
+2021-04-01 14:51:59,366-INFO-process started for file  en_145_en with job id A_FWLBOD15GOT-soTEh-1617268919187
+2021-04-01 14:53:45,516-INFO-file ta_145_ta successfully processed 
+2021-04-01 14:53:45,525-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/173/en_173_en.pdf
+2021-04-01 14:53:46,530-INFO-en_173_en upload response : {'data': '74086762-7b5c-4e9b-b094-54d304bfe6d6.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 14:53:46,530-INFO-Language detected en
+2021-04-01 14:53:46,531-INFO-OCR and Toeknization statred  for en_173_en
+2021-04-01 14:53:47,226-INFO-process started for file  en_173_en with job id A_FWLBOD15GOT-CFXgw-1617269027046
+2021-04-01 15:00:39,509-INFO-file en_145_en successfully processed 
+2021-04-01 15:00:39,525-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/173/ta_173_ta.pdf
+2021-04-01 15:00:40,709-INFO-ta_173_ta upload response : {'data': '4ba4c8f5-56ef-4ac2-8e9f-fa76b3aa20de.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 15:00:40,709-INFO-Language detected ta
+2021-04-01 15:00:40,710-INFO-OCR and Toeknization statred  for ta_173_ta
+2021-04-01 15:00:41,984-INFO-process started for file  ta_173_ta with job id A_FWLBOD15GOT-mKgcz-1617269441771
+2021-04-01 15:03:27,967-INFO-file en_173_en successfully processed 
+2021-04-01 15:03:27,982-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/15/ta_15_ta.pdf
+2021-04-01 15:03:29,615-INFO-ta_15_ta upload response : {'data': 'fd69a7bf-3635-4cc2-aed9-69012cc23842.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 15:03:29,617-INFO-Language detected ta
+2021-04-01 15:03:29,617-INFO-OCR and Toeknization statred  for ta_15_ta
+2021-04-01 15:03:30,484-INFO-process started for file  ta_15_ta with job id A_FWLBOD15GOT-azZyc-1617269610176
+2021-04-01 15:10:35,859-INFO-file ta_173_ta successfully processed 
+2021-04-01 15:10:35,871-INFO-Processing file /home/dhiraj/Documents/Anuwad/AIB/ta_set_1/15/en_15_en.pdf
+2021-04-01 15:10:37,088-INFO-en_15_en upload response : {'data': '3676ac5c-1413-436d-bf06-003790c45899.pdf', 'http': {'status': 200}, 'ok': True, 'why': 'request successful'}
+2021-04-01 15:10:37,089-INFO-Language detected en
+2021-04-01 15:10:37,090-INFO-OCR and Toeknization statred  for en_15_en
+2021-04-01 15:10:37,880-INFO-process started for file  en_15_en with job id A_FWLBOD15GOT-VeWaC-1617270037711
