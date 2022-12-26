@@ -40,7 +40,7 @@ def cropPDF(path, pdf_name, start_page, end_page, src_lng, tgt_lng, domain, col)
     )
 
     input_pdf = PdfFileReader(path)
-    i = int(start_page)
+    i = int(start_page) - 1
     j = 0
     while i + 25 < int(end_page):
         j += 1

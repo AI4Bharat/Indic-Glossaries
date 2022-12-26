@@ -16,7 +16,7 @@ logging.basicConfig(
 logging.getLogger().addHandler(logging.StreamHandler(sys.stdout))
 
 
-def parse_type_1(f, filename, src_lng, tgt_lng, domain, source):    
+def parse_type_1(f, filename, src_lng, tgt_lng, domain, source, linspace):
     result = []
     try:
         word_dict = json.load(open(f, encoding="utf8"))
@@ -57,7 +57,7 @@ def parse_type_1(f, filename, src_lng, tgt_lng, domain, source):
                         prev_height = new_l[-1][0][1][
                             1
                         ]  # the height of the last entry of new_l
-                        if (abs(prev_height - l[i][1][1])) < 85:
+                        if (abs(prev_height - l[i][1][1])) < linspace:
                             new_height = (prev_height + l[i][1][1]) // 2
                             width = new_l[-1][0][1][0]
                             new_l[-1][0] = tuple(
@@ -72,7 +72,7 @@ def parse_type_1(f, filename, src_lng, tgt_lng, domain, source):
                         if new_l[-1][1] == ():
                             prev_src_word = new_l[-1][0][0]
                             prev_src_height = new_l[-1][0][1][1]
-                            if (abs(prev_src_height - l[i][1][1])) < 85:
+                            if (abs(prev_src_height - l[i][1][1])) < linspace:
                                 new_l[-1][1] = tuple(
                                     (l[i][0], [l[i][1][0], l[i][1][1]])
                                 )
@@ -111,20 +111,8 @@ def parse_type_1(f, filename, src_lng, tgt_lng, domain, source):
             for i in range(len(l)):
                 src_word = l[i][0][0]
                 trgt_word = l[i][1][0]
-                if len(l[i][0]) == 1:
-                    final_list.append(
-                        [
-                            src_word,
-                            trgt_word,
-                            src_lng,
-                            tgt_lng,
-                            domain,
-                            source,
-                            "p",
-                            filename[:-5] + ".pdf",
-                        ]
-                    )
-                else:
+                if (len(src_word.split(" "))) == 1:
+
                     final_list.append(
                         [
                             src_word,
@@ -137,11 +125,24 @@ def parse_type_1(f, filename, src_lng, tgt_lng, domain, source):
                             filename[:-5] + ".pdf",
                         ]
                     )
+                else:
+                    final_list.append(
+                        [
+                            src_word,
+                            trgt_word,
+                            src_lng,
+                            tgt_lng,
+                            domain,
+                            source,
+                            "p",
+                            filename[:-5] + ".pdf",
+                        ]
+                    )
             result.extend(final_list)
 
     tsv_path = config.OUTPUT_DIR + filename[:-5] + ".csv"
     csvfile2 = open(tsv_path, "w", encoding="utf-8")
-    csvwriter = csv.writer(csvfile2, delimiter=",")
+    csvwriter = csv.writer(csvfile2, delimiter="\t")
     csvwriter.writerow(
         [
             "Source",
