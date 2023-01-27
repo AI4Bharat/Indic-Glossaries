@@ -31,13 +31,13 @@ The *datasets* are licensed under : [![CC BY 4.0][cc-by-shield]][cc-by]
 ### Breakdown by Collection Source
 Collection Source     | Glossary Corpus Count  | Download link     |
 :-------------------- | ---------------------: |:-----------------:|
-IndoWordNet        	  |	1,724,816              | [download](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/test-glossary.zip) |
-Bharatavani		      |   866,423              | [download](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/test-glossary.zip) |
-CSTT		          |   319,420              | [download](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/test-glossary.zip) |
-OSF		              |   212,951              | [download](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/test-glossary.zip) |
-NPLC - Univ of Moratuwa	|  19,273              | [download](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/test-glossary.zip) |
-Anuvaad		          |     1,690              | [download](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/test-glossary.zip) |
-NCF-NCERT		      |       272              | [download](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/test-glossary.zip) |
+IndoWordNet        	  |	1,724,816              | [download](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/glossary-dataset-indoword.zip) |
+Bharatavani		      |   866,423              | [download](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/glossary-dataset-bharatvani.zip) |
+CSTT		          |   319,420              | [download](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/glossary-dataset-cstt.zip) |
+OSF		              |   212,951              | [download](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/glossary-dataset-osf.zip) |
+NLPC - Univ of Moratuwa	|  19,273              | [download](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/glossary-dataset-nlpc.zip) |
+Anuvaad		          |     1,690              | [download](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/glossary-dataset-anuvaad.zip) |
+NCF-NCERT		      |       272              | download |
 
 
 ### Breakdown by Language Pair
